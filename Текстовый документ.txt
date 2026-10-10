@@ -1,0 +1,29 @@
+@'
+const path = require('node:path');
+const { TrendStore } = require('./trend-store');
+
+const store = new TrendStore(path.resolve('trends.db'));
+const trend = {
+    trendId: 'source_1:1',
+    source: 'source_1',
+    objectId: 1,
+    objectName: 'temperature'
+};
+
+try {
+    store.registerTrend(trend);
+
+    for (let i = 0; i < 3600; i++) {
+        store.append(trend, -20 + (i % 121));
+    }
+
+    const tableName = store.getTableName(trend);
+    const count = store.database
+        .prepare(`SELECT COUNT(*) AS count FROM "${tableName}"`)
+        .get().count;
+
+    console.log(`Записей в ${tableName}: ${count}`);
+} finally {
+    store.close();
+}
+'@ | node
