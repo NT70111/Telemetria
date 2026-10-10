@@ -1,0 +1,6172 @@
+[
+  {
+    "id": 1,
+    "type": "short",
+    "name": "temperature",
+    "value": -2,
+    "condition": {
+      "operator": "between",
+      "min": -20,
+      "max": 100
+    }
+  },
+  {
+    "id": 2,
+    "type": "short",
+    "name": "humidity",
+    "value": 3
+  },
+  {
+    "id": 3,
+    "type": "short",
+    "name": "vibration",
+    "value": 1126
+  },
+  {
+    "id": 4,
+    "type": "int",
+    "name": "rotationSpeed",
+    "value": 2006
+  },
+  {
+    "id": 5,
+    "type": "int",
+    "name": "cycleCount",
+    "value": 234053
+  },
+  {
+    "id": 6,
+    "type": "int",
+    "name": "maintenanceMinutes",
+    "value": 9144
+  },
+  {
+    "id": 7,
+    "type": "long",
+    "name": "operationCount",
+    "value": 3449167
+  },
+  {
+    "id": 8,
+    "type": "long",
+    "name": "totalRuntime",
+    "value": 1453211078
+  },
+  {
+    "id": 9,
+    "type": "float",
+    "name": "voltage",
+    "value": 206.29
+  },
+  {
+    "id": 10,
+    "type": "float",
+    "name": "current",
+    "value": 43.67
+  },
+  {
+    "id": 11,
+    "type": "float",
+    "name": "powerConsumption",
+    "value": 2960.65
+  },
+  {
+    "id": 12,
+    "type": "float",
+    "name": "flowRate",
+    "value": 15.89
+  },
+  {
+    "id": 13,
+    "type": "double",
+    "name": "pressure",
+    "value": 1.8962343
+  },
+  {
+    "id": 14,
+    "type": "double",
+    "name": "energyConsumption",
+    "value": 232660.8933907
+  },
+  {
+    "id": 15,
+    "type": "boolean",
+    "name": "isActive",
+    "value": true
+  },
+  {
+    "id": 16,
+    "type": "boolean",
+    "name": "isOverheated",
+    "value": true
+  },
+  {
+    "id": 17,
+    "type": "boolean",
+    "name": "maintenanceRequired",
+    "value": false
+  },
+  {
+    "id": 18,
+    "type": "byte",
+    "name": "signalStrength",
+    "value": 28
+  },
+  {
+    "id": 19,
+    "type": "byte",
+    "name": "errorCode",
+    "value": 14
+  },
+  {
+    "id": 20,
+    "type": "byte",
+    "name": "fanLevel",
+    "value": 75
+  },
+  {
+    "id": 21,
+    "type": "short",
+    "name": "temperature",
+    "value": 41
+  },
+  {
+    "id": 22,
+    "type": "short",
+    "name": "humidity",
+    "value": 0
+  },
+  {
+    "id": 23,
+    "type": "short",
+    "name": "vibration",
+    "value": 653
+  },
+  {
+    "id": 24,
+    "type": "int",
+    "name": "rotationSpeed",
+    "value": 5719
+  },
+  {
+    "id": 25,
+    "type": "int",
+    "name": "cycleCount",
+    "value": 443143
+  },
+  {
+    "id": 26,
+    "type": "int",
+    "name": "maintenanceMinutes",
+    "value": 22298,
+    "condition": {
+      "operator": "<=",
+      "value": 45000
+    }
+  },
+  {
+    "id": 27,
+    "type": "long",
+    "name": "operationCount",
+    "value": 9333815
+  },
+  {
+    "id": 28,
+    "type": "long",
+    "name": "totalRuntime",
+    "value": 333899688
+  },
+  {
+    "id": 29,
+    "type": "float",
+    "name": "voltage",
+    "value": 137.99
+  },
+  {
+    "id": 30,
+    "type": "float",
+    "name": "current",
+    "value": 61.1
+  },
+  {
+    "id": 31,
+    "type": "float",
+    "name": "powerConsumption",
+    "value": 529.01
+  },
+  {
+    "id": 32,
+    "type": "float",
+    "name": "flowRate",
+    "value": 189.96
+  },
+  {
+    "id": 33,
+    "type": "double",
+    "name": "pressure",
+    "value": 5.0000588
+  },
+  {
+    "id": 34,
+    "type": "double",
+    "name": "energyConsumption",
+    "value": 343955.722479
+  },
+  {
+    "id": 35,
+    "type": "boolean",
+    "name": "isActive",
+    "value": false
+  },
+  {
+    "id": 36,
+    "type": "boolean",
+    "name": "isOverheated",
+    "value": true
+  },
+  {
+    "id": 37,
+    "type": "boolean",
+    "name": "maintenanceRequired",
+    "value": false
+  },
+  {
+    "id": 38,
+    "type": "byte",
+    "name": "signalStrength",
+    "value": 68
+  },
+  {
+    "id": 39,
+    "type": "byte",
+    "name": "errorCode",
+    "value": 3
+  },
+  {
+    "id": 40,
+    "type": "byte",
+    "name": "fanLevel",
+    "value": 48
+  },
+  {
+    "id": 41,
+    "type": "short",
+    "name": "temperature",
+    "value": -10
+  },
+  {
+    "id": 42,
+    "type": "short",
+    "name": "humidity",
+    "value": 70
+  },
+  {
+    "id": 43,
+    "type": "short",
+    "name": "vibration",
+    "value": 1200
+  },
+  {
+    "id": 44,
+    "type": "int",
+    "name": "rotationSpeed",
+    "value": 6794
+  },
+  {
+    "id": 45,
+    "type": "int",
+    "name": "cycleCount",
+    "value": 659176
+  },
+  {
+    "id": 46,
+    "type": "int",
+    "name": "maintenanceMinutes",
+    "value": 40535
+  },
+  {
+    "id": 47,
+    "type": "long",
+    "name": "operationCount",
+    "value": 12144457
+  },
+  {
+    "id": 48,
+    "type": "long",
+    "name": "totalRuntime",
+    "value": 1239864303
+  },
+  {
+    "id": 49,
+    "type": "float",
+    "name": "voltage",
+    "value": 135.0
+  },
+  {
+    "id": 50,
+    "type": "float",
+    "name": "current",
+    "value": 5.66
+  },
+  {
+    "id": 51,
+    "type": "float",
+    "name": "powerConsumption",
+    "value": 3313.09,
+    "condition": {
+      "operator": "<=",
+      "value": 4500
+    }
+  },
+  {
+    "id": 52,
+    "type": "float",
+    "name": "flowRate",
+    "value": 386.53
+  },
+  {
+    "id": 53,
+    "type": "double",
+    "name": "pressure",
+    "value": 12.3270918
+  },
+  {
+    "id": 54,
+    "type": "double",
+    "name": "energyConsumption",
+    "value": 855317.7210151
+  },
+  {
+    "id": 55,
+    "type": "boolean",
+    "name": "isActive",
+    "value": true
+  },
+  {
+    "id": 56,
+    "type": "boolean",
+    "name": "isOverheated",
+    "value": false
+  },
+  {
+    "id": 57,
+    "type": "boolean",
+    "name": "maintenanceRequired",
+    "value": false
+  },
+  {
+    "id": 58,
+    "type": "byte",
+    "name": "signalStrength",
+    "value": 58
+  },
+  {
+    "id": 59,
+    "type": "byte",
+    "name": "errorCode",
+    "value": 11
+  },
+  {
+    "id": 60,
+    "type": "byte",
+    "name": "fanLevel",
+    "value": 20
+  },
+  {
+    "id": 61,
+    "type": "short",
+    "name": "temperature",
+    "value": 64
+  },
+  {
+    "id": 62,
+    "type": "short",
+    "name": "humidity",
+    "value": 45
+  },
+  {
+    "id": 63,
+    "type": "short",
+    "name": "vibration",
+    "value": 858
+  },
+  {
+    "id": 64,
+    "type": "int",
+    "name": "rotationSpeed",
+    "value": 5490
+  },
+  {
+    "id": 65,
+    "type": "int",
+    "name": "cycleCount",
+    "value": 279946
+  },
+  {
+    "id": 66,
+    "type": "int",
+    "name": "maintenanceMinutes",
+    "value": 45994
+  },
+  {
+    "id": 67,
+    "type": "long",
+    "name": "operationCount",
+    "value": 2405870
+  },
+  {
+    "id": 68,
+    "type": "long",
+    "name": "totalRuntime",
+    "value": 1308108873
+  },
+  {
+    "id": 69,
+    "type": "float",
+    "name": "voltage",
+    "value": 192.55
+  },
+  {
+    "id": 70,
+    "type": "float",
+    "name": "current",
+    "value": 42.78
+  },
+  {
+    "id": 71,
+    "type": "float",
+    "name": "powerConsumption",
+    "value": 1239.16
+  },
+  {
+    "id": 72,
+    "type": "float",
+    "name": "flowRate",
+    "value": 231.13
+  },
+  {
+    "id": 73,
+    "type": "double",
+    "name": "pressure",
+    "value": 3.9583896
+  },
+  {
+    "id": 74,
+    "type": "double",
+    "name": "energyConsumption",
+    "value": 925391.1796212
+  },
+  {
+    "id": 75,
+    "type": "boolean",
+    "name": "isActive",
+    "value": true
+  },
+  {
+    "id": 76,
+    "type": "boolean",
+    "name": "isOverheated",
+    "value": false,
+    "condition": {
+      "operator": "==",
+      "value": false
+    }
+  },
+  {
+    "id": 77,
+    "type": "boolean",
+    "name": "maintenanceRequired",
+    "value": true
+  },
+  {
+    "id": 78,
+    "type": "byte",
+    "name": "signalStrength",
+    "value": 29
+  },
+  {
+    "id": 79,
+    "type": "byte",
+    "name": "errorCode",
+    "value": 1
+  },
+  {
+    "id": 80,
+    "type": "byte",
+    "name": "fanLevel",
+    "value": 40
+  },
+  {
+    "id": 81,
+    "type": "short",
+    "name": "temperature",
+    "value": 72
+  },
+  {
+    "id": 82,
+    "type": "short",
+    "name": "humidity",
+    "value": 34
+  },
+  {
+    "id": 83,
+    "type": "short",
+    "name": "vibration",
+    "value": 271
+  },
+  {
+    "id": 84,
+    "type": "int",
+    "name": "rotationSpeed",
+    "value": 1728
+  },
+  {
+    "id": 85,
+    "type": "int",
+    "name": "cycleCount",
+    "value": 594731
+  },
+  {
+    "id": 86,
+    "type": "int",
+    "name": "maintenanceMinutes",
+    "value": 47049
+  },
+  {
+    "id": 87,
+    "type": "long",
+    "name": "operationCount",
+    "value": 10568837
+  },
+  {
+    "id": 88,
+    "type": "long",
+    "name": "totalRuntime",
+    "value": 456622023
+  },
+  {
+    "id": 89,
+    "type": "float",
+    "name": "voltage",
+    "value": 195.21
+  },
+  {
+    "id": 90,
+    "type": "float",
+    "name": "current",
+    "value": 31.71
+  },
+  {
+    "id": 91,
+    "type": "float",
+    "name": "powerConsumption",
+    "value": 4574.45
+  },
+  {
+    "id": 92,
+    "type": "float",
+    "name": "flowRate",
+    "value": 229.43
+  },
+  {
+    "id": 93,
+    "type": "double",
+    "name": "pressure",
+    "value": 3.8990979
+  },
+  {
+    "id": 94,
+    "type": "double",
+    "name": "energyConsumption",
+    "value": 246627.507694
+  },
+  {
+    "id": 95,
+    "type": "boolean",
+    "name": "isActive",
+    "value": false
+  },
+  {
+    "id": 96,
+    "type": "boolean",
+    "name": "isOverheated",
+    "value": false
+  },
+  {
+    "id": 97,
+    "type": "boolean",
+    "name": "maintenanceRequired",
+    "value": false
+  },
+  {
+    "id": 98,
+    "type": "byte",
+    "name": "signalStrength",
+    "value": 46
+  },
+  {
+    "id": 99,
+    "type": "byte",
+    "name": "errorCode",
+    "value": 7
+  },
+  {
+    "id": 100,
+    "type": "byte",
+    "name": "fanLevel",
+    "value": 17
+  },
+  {
+    "id": 101,
+    "type": "short",
+    "name": "temperature",
+    "value": 100,
+    "condition": {
+      "operator": "between",
+      "min": -20,
+      "max": 100
+    }
+  },
+  {
+    "id": 102,
+    "type": "short",
+    "name": "humidity",
+    "value": 63
+  },
+  {
+    "id": 103,
+    "type": "short",
+    "name": "vibration",
+    "value": 372
+  },
+  {
+    "id": 104,
+    "type": "int",
+    "name": "rotationSpeed",
+    "value": 6191
+  },
+  {
+    "id": 105,
+    "type": "int",
+    "name": "cycleCount",
+    "value": 49405
+  },
+  {
+    "id": 106,
+    "type": "int",
+    "name": "maintenanceMinutes",
+    "value": 7185
+  },
+  {
+    "id": 107,
+    "type": "long",
+    "name": "operationCount",
+    "value": 5138503
+  },
+  {
+    "id": 108,
+    "type": "long",
+    "name": "totalRuntime",
+    "value": 1347440114
+  },
+  {
+    "id": 109,
+    "type": "float",
+    "name": "voltage",
+    "value": 130.8
+  },
+  {
+    "id": 110,
+    "type": "float",
+    "name": "current",
+    "value": 54.47
+  },
+  {
+    "id": 111,
+    "type": "float",
+    "name": "powerConsumption",
+    "value": 2990.12
+  },
+  {
+    "id": 112,
+    "type": "float",
+    "name": "flowRate",
+    "value": 192.38
+  },
+  {
+    "id": 113,
+    "type": "double",
+    "name": "pressure",
+    "value": 7.7718946
+  },
+  {
+    "id": 114,
+    "type": "double",
+    "name": "energyConsumption",
+    "value": 468049.8877847
+  },
+  {
+    "id": 115,
+    "type": "boolean",
+    "name": "isActive",
+    "value": false
+  },
+  {
+    "id": 116,
+    "type": "boolean",
+    "name": "isOverheated",
+    "value": true
+  },
+  {
+    "id": 117,
+    "type": "boolean",
+    "name": "maintenanceRequired",
+    "value": true
+  },
+  {
+    "id": 118,
+    "type": "byte",
+    "name": "signalStrength",
+    "value": 87
+  },
+  {
+    "id": 119,
+    "type": "byte",
+    "name": "errorCode",
+    "value": 8
+  },
+  {
+    "id": 120,
+    "type": "byte",
+    "name": "fanLevel",
+    "value": 98
+  },
+  {
+    "id": 121,
+    "type": "short",
+    "name": "temperature",
+    "value": 57
+  },
+  {
+    "id": 122,
+    "type": "short",
+    "name": "humidity",
+    "value": 14
+  },
+  {
+    "id": 123,
+    "type": "short",
+    "name": "vibration",
+    "value": 1202
+  },
+  {
+    "id": 124,
+    "type": "int",
+    "name": "rotationSpeed",
+    "value": 3561
+  },
+  {
+    "id": 125,
+    "type": "int",
+    "name": "cycleCount",
+    "value": 165840
+  },
+  {
+    "id": 126,
+    "type": "int",
+    "name": "maintenanceMinutes",
+    "value": 29735,
+    "condition": {
+      "operator": "<=",
+      "value": 45000
+    }
+  },
+  {
+    "id": 127,
+    "type": "long",
+    "name": "operationCount",
+    "value": 118894
+  },
+  {
+    "id": 128,
+    "type": "long",
+    "name": "totalRuntime",
+    "value": 1550690889
+  },
+  {
+    "id": 129,
+    "type": "float",
+    "name": "voltage",
+    "value": 223.86
+  },
+  {
+    "id": 130,
+    "type": "float",
+    "name": "current",
+    "value": 21.14
+  },
+  {
+    "id": 131,
+    "type": "float",
+    "name": "powerConsumption",
+    "value": 2512.92
+  },
+  {
+    "id": 132,
+    "type": "float",
+    "name": "flowRate",
+    "value": 89.33
+  },
+  {
+    "id": 133,
+    "type": "double",
+    "name": "pressure",
+    "value": 11.4777457
+  },
+  {
+    "id": 134,
+    "type": "double",
+    "name": "energyConsumption",
+    "value": 870518.5698368
+  },
+  {
+    "id": 135,
+    "type": "boolean",
+    "name": "isActive",
+    "value": false
+  },
+  {
+    "id": 136,
+    "type": "boolean",
+    "name": "isOverheated",
+    "value": true
+  },
+  {
+    "id": 137,
+    "type": "boolean",
+    "name": "maintenanceRequired",
+    "value": true
+  },
+  {
+    "id": 138,
+    "type": "byte",
+    "name": "signalStrength",
+    "value": 47
+  },
+  {
+    "id": 139,
+    "type": "byte",
+    "name": "errorCode",
+    "value": 5
+  },
+  {
+    "id": 140,
+    "type": "byte",
+    "name": "fanLevel",
+    "value": 69
+  },
+  {
+    "id": 141,
+    "type": "short",
+    "name": "temperature",
+    "value": 105
+  },
+  {
+    "id": 142,
+    "type": "short",
+    "name": "humidity",
+    "value": 0
+  },
+  {
+    "id": 143,
+    "type": "short",
+    "name": "vibration",
+    "value": 2453
+  },
+  {
+    "id": 144,
+    "type": "int",
+    "name": "rotationSpeed",
+    "value": 2655
+  },
+  {
+    "id": 145,
+    "type": "int",
+    "name": "cycleCount",
+    "value": 512340
+  },
+  {
+    "id": 146,
+    "type": "int",
+    "name": "maintenanceMinutes",
+    "value": 1276
+  },
+  {
+    "id": 147,
+    "type": "long",
+    "name": "operationCount",
+    "value": 3763657
+  },
+  {
+    "id": 148,
+    "type": "long",
+    "name": "totalRuntime",
+    "value": 1995234088
+  },
+  {
+    "id": 149,
+    "type": "float",
+    "name": "voltage",
+    "value": 157.19
+  },
+  {
+    "id": 150,
+    "type": "float",
+    "name": "current",
+    "value": 78.83
+  },
+  {
+    "id": 151,
+    "type": "float",
+    "name": "powerConsumption",
+    "value": 4037.74,
+    "condition": {
+      "operator": "<=",
+      "value": 4500
+    }
+  },
+  {
+    "id": 152,
+    "type": "float",
+    "name": "flowRate",
+    "value": 119.73
+  },
+  {
+    "id": 153,
+    "type": "double",
+    "name": "pressure",
+    "value": 3.6181976
+  },
+  {
+    "id": 154,
+    "type": "double",
+    "name": "energyConsumption",
+    "value": 567356.9436889
+  },
+  {
+    "id": 155,
+    "type": "boolean",
+    "name": "isActive",
+    "value": true
+  },
+  {
+    "id": 156,
+    "type": "boolean",
+    "name": "isOverheated",
+    "value": true
+  },
+  {
+    "id": 157,
+    "type": "boolean",
+    "name": "maintenanceRequired",
+    "value": false
+  },
+  {
+    "id": 158,
+    "type": "byte",
+    "name": "signalStrength",
+    "value": 8
+  },
+  {
+    "id": 159,
+    "type": "byte",
+    "name": "errorCode",
+    "value": 4
+  },
+  {
+    "id": 160,
+    "type": "byte",
+    "name": "fanLevel",
+    "value": 16
+  },
+  {
+    "id": 161,
+    "type": "short",
+    "name": "temperature",
+    "value": 91
+  },
+  {
+    "id": 162,
+    "type": "short",
+    "name": "humidity",
+    "value": 70
+  },
+  {
+    "id": 163,
+    "type": "short",
+    "name": "vibration",
+    "value": 676
+  },
+  {
+    "id": 164,
+    "type": "int",
+    "name": "rotationSpeed",
+    "value": 2171
+  },
+  {
+    "id": 165,
+    "type": "int",
+    "name": "cycleCount",
+    "value": 553306
+  },
+  {
+    "id": 166,
+    "type": "int",
+    "name": "maintenanceMinutes",
+    "value": 39753
+  },
+  {
+    "id": 167,
+    "type": "long",
+    "name": "operationCount",
+    "value": 14208153
+  },
+  {
+    "id": 168,
+    "type": "long",
+    "name": "totalRuntime",
+    "value": 454843168
+  },
+  {
+    "id": 169,
+    "type": "float",
+    "name": "voltage",
+    "value": 230.76
+  },
+  {
+    "id": 170,
+    "type": "float",
+    "name": "current",
+    "value": 60.45
+  },
+  {
+    "id": 171,
+    "type": "float",
+    "name": "powerConsumption",
+    "value": 3455.54
+  },
+  {
+    "id": 172,
+    "type": "float",
+    "name": "flowRate",
+    "value": 356.47
+  },
+  {
+    "id": 173,
+    "type": "double",
+    "name": "pressure",
+    "value": 5.4682099
+  },
+  {
+    "id": 174,
+    "type": "double",
+    "name": "energyConsumption",
+    "value": 671686.9596383
+  },
+  {
+    "id": 175,
+    "type": "boolean",
+    "name": "isActive",
+    "value": false
+  },
+  {
+    "id": 176,
+    "type": "boolean",
+    "name": "isOverheated",
+    "value": false,
+    "condition": {
+      "operator": "==",
+      "value": false
+    }
+  },
+  {
+    "id": 177,
+    "type": "boolean",
+    "name": "maintenanceRequired",
+    "value": false
+  },
+  {
+    "id": 178,
+    "type": "byte",
+    "name": "signalStrength",
+    "value": 15
+  },
+  {
+    "id": 179,
+    "type": "byte",
+    "name": "errorCode",
+    "value": 7
+  },
+  {
+    "id": 180,
+    "type": "byte",
+    "name": "fanLevel",
+    "value": 28
+  },
+  {
+    "id": 181,
+    "type": "short",
+    "name": "temperature",
+    "value": -14
+  },
+  {
+    "id": 182,
+    "type": "short",
+    "name": "humidity",
+    "value": 43
+  },
+  {
+    "id": 183,
+    "type": "short",
+    "name": "vibration",
+    "value": 86
+  },
+  {
+    "id": 184,
+    "type": "int",
+    "name": "rotationSpeed",
+    "value": 4819
+  },
+  {
+    "id": 185,
+    "type": "int",
+    "name": "cycleCount",
+    "value": 580828
+  },
+  {
+    "id": 186,
+    "type": "int",
+    "name": "maintenanceMinutes",
+    "value": 15080
+  },
+  {
+    "id": 187,
+    "type": "long",
+    "name": "operationCount",
+    "value": 19754773
+  },
+  {
+    "id": 188,
+    "type": "long",
+    "name": "totalRuntime",
+    "value": 472923243
+  },
+  {
+    "id": 189,
+    "type": "float",
+    "name": "voltage",
+    "value": 110.93
+  },
+  {
+    "id": 190,
+    "type": "float",
+    "name": "current",
+    "value": 56.66
+  },
+  {
+    "id": 191,
+    "type": "float",
+    "name": "powerConsumption",
+    "value": 313.19
+  },
+  {
+    "id": 192,
+    "type": "float",
+    "name": "flowRate",
+    "value": 33.7
+  },
+  {
+    "id": 193,
+    "type": "double",
+    "name": "pressure",
+    "value": 1.1675316
+  },
+  {
+    "id": 194,
+    "type": "double",
+    "name": "energyConsumption",
+    "value": 330428.4890805
+  },
+  {
+    "id": 195,
+    "type": "boolean",
+    "name": "isActive",
+    "value": true
+  },
+  {
+    "id": 196,
+    "type": "boolean",
+    "name": "isOverheated",
+    "value": false
+  },
+  {
+    "id": 197,
+    "type": "boolean",
+    "name": "maintenanceRequired",
+    "value": false
+  },
+  {
+    "id": 198,
+    "type": "byte",
+    "name": "signalStrength",
+    "value": 27
+  },
+  {
+    "id": 199,
+    "type": "byte",
+    "name": "errorCode",
+    "value": 4
+  },
+  {
+    "id": 200,
+    "type": "byte",
+    "name": "fanLevel",
+    "value": 92
+  },
+  {
+    "id": 201,
+    "type": "short",
+    "name": "temperature",
+    "value": 116,
+    "condition": {
+      "operator": "between",
+      "min": -20,
+      "max": 100
+    }
+  },
+  {
+    "id": 202,
+    "type": "short",
+    "name": "humidity",
+    "value": 73
+  },
+  {
+    "id": 203,
+    "type": "short",
+    "name": "vibration",
+    "value": 1936
+  },
+  {
+    "id": 204,
+    "type": "int",
+    "name": "rotationSpeed",
+    "value": 1990
+  },
+  {
+    "id": 205,
+    "type": "int",
+    "name": "cycleCount",
+    "value": 822733
+  },
+  {
+    "id": 206,
+    "type": "int",
+    "name": "maintenanceMinutes",
+    "value": 30996
+  },
+  {
+    "id": 207,
+    "type": "long",
+    "name": "operationCount",
+    "value": 13668665
+  },
+  {
+    "id": 208,
+    "type": "long",
+    "name": "totalRuntime",
+    "value": 408912191
+  },
+  {
+    "id": 209,
+    "type": "float",
+    "name": "voltage",
+    "value": 122.26
+  },
+  {
+    "id": 210,
+    "type": "float",
+    "name": "current",
+    "value": 52.75
+  },
+  {
+    "id": 211,
+    "type": "float",
+    "name": "powerConsumption",
+    "value": 1784.4
+  },
+  {
+    "id": 212,
+    "type": "float",
+    "name": "flowRate",
+    "value": 205.55
+  },
+  {
+    "id": 213,
+    "type": "double",
+    "name": "pressure",
+    "value": 10.90689
+  },
+  {
+    "id": 214,
+    "type": "double",
+    "name": "energyConsumption",
+    "value": 54171.1872322
+  },
+  {
+    "id": 215,
+    "type": "boolean",
+    "name": "isActive",
+    "value": true
+  },
+  {
+    "id": 216,
+    "type": "boolean",
+    "name": "isOverheated",
+    "value": true
+  },
+  {
+    "id": 217,
+    "type": "boolean",
+    "name": "maintenanceRequired",
+    "value": false
+  },
+  {
+    "id": 218,
+    "type": "byte",
+    "name": "signalStrength",
+    "value": 93
+  },
+  {
+    "id": 219,
+    "type": "byte",
+    "name": "errorCode",
+    "value": 10
+  },
+  {
+    "id": 220,
+    "type": "byte",
+    "name": "fanLevel",
+    "value": 13
+  },
+  {
+    "id": 221,
+    "type": "short",
+    "name": "temperature",
+    "value": 33
+  },
+  {
+    "id": 222,
+    "type": "short",
+    "name": "humidity",
+    "value": 24
+  },
+  {
+    "id": 223,
+    "type": "short",
+    "name": "vibration",
+    "value": 779
+  },
+  {
+    "id": 224,
+    "type": "int",
+    "name": "rotationSpeed",
+    "value": 4393
+  },
+  {
+    "id": 225,
+    "type": "int",
+    "name": "cycleCount",
+    "value": 470405
+  },
+  {
+    "id": 226,
+    "type": "int",
+    "name": "maintenanceMinutes",
+    "value": 9186,
+    "condition": {
+      "operator": "<=",
+      "value": 45000
+    }
+  },
+  {
+    "id": 227,
+    "type": "long",
+    "name": "operationCount",
+    "value": 14165998
+  },
+  {
+    "id": 228,
+    "type": "long",
+    "name": "totalRuntime",
+    "value": 394047563
+  },
+  {
+    "id": 229,
+    "type": "float",
+    "name": "voltage",
+    "value": 146.21
+  },
+  {
+    "id": 230,
+    "type": "float",
+    "name": "current",
+    "value": 20.06
+  },
+  {
+    "id": 231,
+    "type": "float",
+    "name": "powerConsumption",
+    "value": 4617.86
+  },
+  {
+    "id": 232,
+    "type": "float",
+    "name": "flowRate",
+    "value": 221.57
+  },
+  {
+    "id": 233,
+    "type": "double",
+    "name": "pressure",
+    "value": 10.8777845
+  },
+  {
+    "id": 234,
+    "type": "double",
+    "name": "energyConsumption",
+    "value": 550325.3124498
+  },
+  {
+    "id": 235,
+    "type": "boolean",
+    "name": "isActive",
+    "value": true
+  },
+  {
+    "id": 236,
+    "type": "boolean",
+    "name": "isOverheated",
+    "value": true
+  },
+  {
+    "id": 237,
+    "type": "boolean",
+    "name": "maintenanceRequired",
+    "value": true
+  },
+  {
+    "id": 238,
+    "type": "byte",
+    "name": "signalStrength",
+    "value": 96
+  },
+  {
+    "id": 239,
+    "type": "byte",
+    "name": "errorCode",
+    "value": 7
+  },
+  {
+    "id": 240,
+    "type": "byte",
+    "name": "fanLevel",
+    "value": 21
+  },
+  {
+    "id": 241,
+    "type": "short",
+    "name": "temperature",
+    "value": 74
+  },
+  {
+    "id": 242,
+    "type": "short",
+    "name": "humidity",
+    "value": 62
+  },
+  {
+    "id": 243,
+    "type": "short",
+    "name": "vibration",
+    "value": 1971
+  },
+  {
+    "id": 244,
+    "type": "int",
+    "name": "rotationSpeed",
+    "value": 1751
+  },
+  {
+    "id": 245,
+    "type": "int",
+    "name": "cycleCount",
+    "value": 420521
+  },
+  {
+    "id": 246,
+    "type": "int",
+    "name": "maintenanceMinutes",
+    "value": 3842
+  },
+  {
+    "id": 247,
+    "type": "long",
+    "name": "operationCount",
+    "value": 5534305
+  },
+  {
+    "id": 248,
+    "type": "long",
+    "name": "totalRuntime",
+    "value": 813848577
+  },
+  {
+    "id": 249,
+    "type": "float",
+    "name": "voltage",
+    "value": 110.28
+  },
+  {
+    "id": 250,
+    "type": "float",
+    "name": "current",
+    "value": 31.29
+  },
+  {
+    "id": 251,
+    "type": "float",
+    "name": "powerConsumption",
+    "value": 4634.06,
+    "condition": {
+      "operator": "<=",
+      "value": 4500
+    }
+  },
+  {
+    "id": 252,
+    "type": "float",
+    "name": "flowRate",
+    "value": 392.56
+  },
+  {
+    "id": 253,
+    "type": "double",
+    "name": "pressure",
+    "value": 4.137416
+  },
+  {
+    "id": 254,
+    "type": "double",
+    "name": "energyConsumption",
+    "value": 696591.5036002
+  },
+  {
+    "id": 255,
+    "type": "boolean",
+    "name": "isActive",
+    "value": false
+  },
+  {
+    "id": 256,
+    "type": "boolean",
+    "name": "isOverheated",
+    "value": true
+  },
+  {
+    "id": 257,
+    "type": "boolean",
+    "name": "maintenanceRequired",
+    "value": true
+  },
+  {
+    "id": 258,
+    "type": "byte",
+    "name": "signalStrength",
+    "value": 37
+  },
+  {
+    "id": 259,
+    "type": "byte",
+    "name": "errorCode",
+    "value": 6
+  },
+  {
+    "id": 260,
+    "type": "byte",
+    "name": "fanLevel",
+    "value": 7
+  },
+  {
+    "id": 261,
+    "type": "short",
+    "name": "temperature",
+    "value": 118
+  },
+  {
+    "id": 262,
+    "type": "short",
+    "name": "humidity",
+    "value": 94
+  },
+  {
+    "id": 263,
+    "type": "short",
+    "name": "vibration",
+    "value": 2220
+  },
+  {
+    "id": 264,
+    "type": "int",
+    "name": "rotationSpeed",
+    "value": 499
+  },
+  {
+    "id": 265,
+    "type": "int",
+    "name": "cycleCount",
+    "value": 784309
+  },
+  {
+    "id": 266,
+    "type": "int",
+    "name": "maintenanceMinutes",
+    "value": 20552
+  },
+  {
+    "id": 267,
+    "type": "long",
+    "name": "operationCount",
+    "value": 1928148
+  },
+  {
+    "id": 268,
+    "type": "long",
+    "name": "totalRuntime",
+    "value": 107689841
+  },
+  {
+    "id": 269,
+    "type": "float",
+    "name": "voltage",
+    "value": 185.94
+  },
+  {
+    "id": 270,
+    "type": "float",
+    "name": "current",
+    "value": 40.28
+  },
+  {
+    "id": 271,
+    "type": "float",
+    "name": "powerConsumption",
+    "value": 4266.55
+  },
+  {
+    "id": 272,
+    "type": "float",
+    "name": "flowRate",
+    "value": 78.72
+  },
+  {
+    "id": 273,
+    "type": "double",
+    "name": "pressure",
+    "value": 12.0411132
+  },
+  {
+    "id": 274,
+    "type": "double",
+    "name": "energyConsumption",
+    "value": 80111.4652406
+  },
+  {
+    "id": 275,
+    "type": "boolean",
+    "name": "isActive",
+    "value": true
+  },
+  {
+    "id": 276,
+    "type": "boolean",
+    "name": "isOverheated",
+    "value": true,
+    "condition": {
+      "operator": "==",
+      "value": false
+    }
+  },
+  {
+    "id": 277,
+    "type": "boolean",
+    "name": "maintenanceRequired",
+    "value": true
+  },
+  {
+    "id": 278,
+    "type": "byte",
+    "name": "signalStrength",
+    "value": 86
+  },
+  {
+    "id": 279,
+    "type": "byte",
+    "name": "errorCode",
+    "value": 7
+  },
+  {
+    "id": 280,
+    "type": "byte",
+    "name": "fanLevel",
+    "value": 51
+  },
+  {
+    "id": 281,
+    "type": "short",
+    "name": "temperature",
+    "value": 0
+  },
+  {
+    "id": 282,
+    "type": "short",
+    "name": "humidity",
+    "value": 72
+  },
+  {
+    "id": 283,
+    "type": "short",
+    "name": "vibration",
+    "value": 1008
+  },
+  {
+    "id": 284,
+    "type": "int",
+    "name": "rotationSpeed",
+    "value": 4742
+  },
+  {
+    "id": 285,
+    "type": "int",
+    "name": "cycleCount",
+    "value": 623398
+  },
+  {
+    "id": 286,
+    "type": "int",
+    "name": "maintenanceMinutes",
+    "value": 2604
+  },
+  {
+    "id": 287,
+    "type": "long",
+    "name": "operationCount",
+    "value": 2760906
+  },
+  {
+    "id": 288,
+    "type": "long",
+    "name": "totalRuntime",
+    "value": 900288641
+  },
+  {
+    "id": 289,
+    "type": "float",
+    "name": "voltage",
+    "value": 195.46
+  },
+  {
+    "id": 290,
+    "type": "float",
+    "name": "current",
+    "value": 45.26
+  },
+  {
+    "id": 291,
+    "type": "float",
+    "name": "powerConsumption",
+    "value": 1595.52
+  },
+  {
+    "id": 292,
+    "type": "float",
+    "name": "flowRate",
+    "value": 130.38
+  },
+  {
+    "id": 293,
+    "type": "double",
+    "name": "pressure",
+    "value": 8.6357939
+  },
+  {
+    "id": 294,
+    "type": "double",
+    "name": "energyConsumption",
+    "value": 314183.8627956
+  },
+  {
+    "id": 295,
+    "type": "boolean",
+    "name": "isActive",
+    "value": false
+  },
+  {
+    "id": 296,
+    "type": "boolean",
+    "name": "isOverheated",
+    "value": false
+  },
+  {
+    "id": 297,
+    "type": "boolean",
+    "name": "maintenanceRequired",
+    "value": true
+  },
+  {
+    "id": 298,
+    "type": "byte",
+    "name": "signalStrength",
+    "value": 85
+  },
+  {
+    "id": 299,
+    "type": "byte",
+    "name": "errorCode",
+    "value": 9
+  },
+  {
+    "id": 300,
+    "type": "byte",
+    "name": "fanLevel",
+    "value": 58
+  },
+  {
+    "id": 301,
+    "type": "short",
+    "name": "temperature",
+    "value": 50,
+    "condition": {
+      "operator": "between",
+      "min": -20,
+      "max": 100
+    }
+  },
+  {
+    "id": 302,
+    "type": "short",
+    "name": "humidity",
+    "value": 96
+  },
+  {
+    "id": 303,
+    "type": "short",
+    "name": "vibration",
+    "value": 297
+  },
+  {
+    "id": 304,
+    "type": "int",
+    "name": "rotationSpeed",
+    "value": 76
+  },
+  {
+    "id": 305,
+    "type": "int",
+    "name": "cycleCount",
+    "value": 480547
+  },
+  {
+    "id": 306,
+    "type": "int",
+    "name": "maintenanceMinutes",
+    "value": 40708
+  },
+  {
+    "id": 307,
+    "type": "long",
+    "name": "operationCount",
+    "value": 18900931
+  },
+  {
+    "id": 308,
+    "type": "long",
+    "name": "totalRuntime",
+    "value": 214718106
+  },
+  {
+    "id": 309,
+    "type": "float",
+    "name": "voltage",
+    "value": 119.52
+  },
+  {
+    "id": 310,
+    "type": "float",
+    "name": "current",
+    "value": 17.13
+  },
+  {
+    "id": 311,
+    "type": "float",
+    "name": "powerConsumption",
+    "value": 1340.7
+  },
+  {
+    "id": 312,
+    "type": "float",
+    "name": "flowRate",
+    "value": 466.63
+  },
+  {
+    "id": 313,
+    "type": "double",
+    "name": "pressure",
+    "value": 11.1061108
+  },
+  {
+    "id": 314,
+    "type": "double",
+    "name": "energyConsumption",
+    "value": 879270.2424845
+  },
+  {
+    "id": 315,
+    "type": "boolean",
+    "name": "isActive",
+    "value": false
+  },
+  {
+    "id": 316,
+    "type": "boolean",
+    "name": "isOverheated",
+    "value": false
+  },
+  {
+    "id": 317,
+    "type": "boolean",
+    "name": "maintenanceRequired",
+    "value": true
+  },
+  {
+    "id": 318,
+    "type": "byte",
+    "name": "signalStrength",
+    "value": 56
+  },
+  {
+    "id": 319,
+    "type": "byte",
+    "name": "errorCode",
+    "value": 9
+  },
+  {
+    "id": 320,
+    "type": "byte",
+    "name": "fanLevel",
+    "value": 78
+  },
+  {
+    "id": 321,
+    "type": "short",
+    "name": "temperature",
+    "value": 105
+  },
+  {
+    "id": 322,
+    "type": "short",
+    "name": "humidity",
+    "value": 1
+  },
+  {
+    "id": 323,
+    "type": "short",
+    "name": "vibration",
+    "value": 2735
+  },
+  {
+    "id": 324,
+    "type": "int",
+    "name": "rotationSpeed",
+    "value": 6693
+  },
+  {
+    "id": 325,
+    "type": "int",
+    "name": "cycleCount",
+    "value": 581542
+  },
+  {
+    "id": 326,
+    "type": "int",
+    "name": "maintenanceMinutes",
+    "value": 19620,
+    "condition": {
+      "operator": "<=",
+      "value": 45000
+    }
+  },
+  {
+    "id": 327,
+    "type": "long",
+    "name": "operationCount",
+    "value": 3485786
+  },
+  {
+    "id": 328,
+    "type": "long",
+    "name": "totalRuntime",
+    "value": 1885773298
+  },
+  {
+    "id": 329,
+    "type": "float",
+    "name": "voltage",
+    "value": 127.46
+  },
+  {
+    "id": 330,
+    "type": "float",
+    "name": "current",
+    "value": 9.32
+  },
+  {
+    "id": 331,
+    "type": "float",
+    "name": "powerConsumption",
+    "value": 553.04
+  },
+  {
+    "id": 332,
+    "type": "float",
+    "name": "flowRate",
+    "value": 276.61
+  },
+  {
+    "id": 333,
+    "type": "double",
+    "name": "pressure",
+    "value": 3.9864741
+  },
+  {
+    "id": 334,
+    "type": "double",
+    "name": "energyConsumption",
+    "value": 604829.8270302
+  },
+  {
+    "id": 335,
+    "type": "boolean",
+    "name": "isActive",
+    "value": false
+  },
+  {
+    "id": 336,
+    "type": "boolean",
+    "name": "isOverheated",
+    "value": true
+  },
+  {
+    "id": 337,
+    "type": "boolean",
+    "name": "maintenanceRequired",
+    "value": false
+  },
+  {
+    "id": 338,
+    "type": "byte",
+    "name": "signalStrength",
+    "value": 64
+  },
+  {
+    "id": 339,
+    "type": "byte",
+    "name": "errorCode",
+    "value": 15
+  },
+  {
+    "id": 340,
+    "type": "byte",
+    "name": "fanLevel",
+    "value": 32
+  },
+  {
+    "id": 341,
+    "type": "short",
+    "name": "temperature",
+    "value": -17
+  },
+  {
+    "id": 342,
+    "type": "short",
+    "name": "humidity",
+    "value": 11
+  },
+  {
+    "id": 343,
+    "type": "short",
+    "name": "vibration",
+    "value": 2598
+  },
+  {
+    "id": 344,
+    "type": "int",
+    "name": "rotationSpeed",
+    "value": 3469
+  },
+  {
+    "id": 345,
+    "type": "int",
+    "name": "cycleCount",
+    "value": 869634
+  },
+  {
+    "id": 346,
+    "type": "int",
+    "name": "maintenanceMinutes",
+    "value": 18132
+  },
+  {
+    "id": 347,
+    "type": "long",
+    "name": "operationCount",
+    "value": 1489306
+  },
+  {
+    "id": 348,
+    "type": "long",
+    "name": "totalRuntime",
+    "value": 7624311
+  },
+  {
+    "id": 349,
+    "type": "float",
+    "name": "voltage",
+    "value": 153.36
+  },
+  {
+    "id": 350,
+    "type": "float",
+    "name": "current",
+    "value": 10.55
+  },
+  {
+    "id": 351,
+    "type": "float",
+    "name": "powerConsumption",
+    "value": 4899.39,
+    "condition": {
+      "operator": "<=",
+      "value": 4500
+    }
+  },
+  {
+    "id": 352,
+    "type": "float",
+    "name": "flowRate",
+    "value": 80.79
+  },
+  {
+    "id": 353,
+    "type": "double",
+    "name": "pressure",
+    "value": 5.9694755
+  },
+  {
+    "id": 354,
+    "type": "double",
+    "name": "energyConsumption",
+    "value": 705667.44676
+  },
+  {
+    "id": 355,
+    "type": "boolean",
+    "name": "isActive",
+    "value": true
+  },
+  {
+    "id": 356,
+    "type": "boolean",
+    "name": "isOverheated",
+    "value": true
+  },
+  {
+    "id": 357,
+    "type": "boolean",
+    "name": "maintenanceRequired",
+    "value": true
+  },
+  {
+    "id": 358,
+    "type": "byte",
+    "name": "signalStrength",
+    "value": 88
+  },
+  {
+    "id": 359,
+    "type": "byte",
+    "name": "errorCode",
+    "value": 4
+  },
+  {
+    "id": 360,
+    "type": "byte",
+    "name": "fanLevel",
+    "value": 69
+  },
+  {
+    "id": 361,
+    "type": "short",
+    "name": "temperature",
+    "value": -21
+  },
+  {
+    "id": 362,
+    "type": "short",
+    "name": "humidity",
+    "value": 47
+  },
+  {
+    "id": 363,
+    "type": "short",
+    "name": "vibration",
+    "value": 2385
+  },
+  {
+    "id": 364,
+    "type": "int",
+    "name": "rotationSpeed",
+    "value": 4526
+  },
+  {
+    "id": 365,
+    "type": "int",
+    "name": "cycleCount",
+    "value": 155287
+  },
+  {
+    "id": 366,
+    "type": "int",
+    "name": "maintenanceMinutes",
+    "value": 28166
+  },
+  {
+    "id": 367,
+    "type": "long",
+    "name": "operationCount",
+    "value": 4286362
+  },
+  {
+    "id": 368,
+    "type": "long",
+    "name": "totalRuntime",
+    "value": 89836799
+  },
+  {
+    "id": 369,
+    "type": "float",
+    "name": "voltage",
+    "value": 150.07
+  },
+  {
+    "id": 370,
+    "type": "float",
+    "name": "current",
+    "value": 71.93
+  },
+  {
+    "id": 371,
+    "type": "float",
+    "name": "powerConsumption",
+    "value": 3984.69
+  },
+  {
+    "id": 372,
+    "type": "float",
+    "name": "flowRate",
+    "value": 430.35
+  },
+  {
+    "id": 373,
+    "type": "double",
+    "name": "pressure",
+    "value": 11.3174182
+  },
+  {
+    "id": 374,
+    "type": "double",
+    "name": "energyConsumption",
+    "value": 210076.5383398
+  },
+  {
+    "id": 375,
+    "type": "boolean",
+    "name": "isActive",
+    "value": true
+  },
+  {
+    "id": 376,
+    "type": "boolean",
+    "name": "isOverheated",
+    "value": true,
+    "condition": {
+      "operator": "==",
+      "value": false
+    }
+  },
+  {
+    "id": 377,
+    "type": "boolean",
+    "name": "maintenanceRequired",
+    "value": false
+  },
+  {
+    "id": 378,
+    "type": "byte",
+    "name": "signalStrength",
+    "value": 99
+  },
+  {
+    "id": 379,
+    "type": "byte",
+    "name": "errorCode",
+    "value": 13
+  },
+  {
+    "id": 380,
+    "type": "byte",
+    "name": "fanLevel",
+    "value": 79
+  },
+  {
+    "id": 381,
+    "type": "short",
+    "name": "temperature",
+    "value": 9
+  },
+  {
+    "id": 382,
+    "type": "short",
+    "name": "humidity",
+    "value": 30
+  },
+  {
+    "id": 383,
+    "type": "short",
+    "name": "vibration",
+    "value": 665
+  },
+  {
+    "id": 384,
+    "type": "int",
+    "name": "rotationSpeed",
+    "value": 6552
+  },
+  {
+    "id": 385,
+    "type": "int",
+    "name": "cycleCount",
+    "value": 850155
+  },
+  {
+    "id": 386,
+    "type": "int",
+    "name": "maintenanceMinutes",
+    "value": 11603
+  },
+  {
+    "id": 387,
+    "type": "long",
+    "name": "operationCount",
+    "value": 13844304
+  },
+  {
+    "id": 388,
+    "type": "long",
+    "name": "totalRuntime",
+    "value": 53238317
+  },
+  {
+    "id": 389,
+    "type": "float",
+    "name": "voltage",
+    "value": 133.32
+  },
+  {
+    "id": 390,
+    "type": "float",
+    "name": "current",
+    "value": 73.97
+  },
+  {
+    "id": 391,
+    "type": "float",
+    "name": "powerConsumption",
+    "value": 3916.28
+  },
+  {
+    "id": 392,
+    "type": "float",
+    "name": "flowRate",
+    "value": 205.86
+  },
+  {
+    "id": 393,
+    "type": "double",
+    "name": "pressure",
+    "value": 8.6379134
+  },
+  {
+    "id": 394,
+    "type": "double",
+    "name": "energyConsumption",
+    "value": 735057.5388279
+  },
+  {
+    "id": 395,
+    "type": "boolean",
+    "name": "isActive",
+    "value": true
+  },
+  {
+    "id": 396,
+    "type": "boolean",
+    "name": "isOverheated",
+    "value": false
+  },
+  {
+    "id": 397,
+    "type": "boolean",
+    "name": "maintenanceRequired",
+    "value": true
+  },
+  {
+    "id": 398,
+    "type": "byte",
+    "name": "signalStrength",
+    "value": 100
+  },
+  {
+    "id": 399,
+    "type": "byte",
+    "name": "errorCode",
+    "value": 3
+  },
+  {
+    "id": 400,
+    "type": "byte",
+    "name": "fanLevel",
+    "value": 48
+  },
+  {
+    "id": 401,
+    "type": "short",
+    "name": "temperature",
+    "value": -21,
+    "condition": {
+      "operator": "between",
+      "min": -20,
+      "max": 100
+    }
+  },
+  {
+    "id": 402,
+    "type": "short",
+    "name": "humidity",
+    "value": 60
+  },
+  {
+    "id": 403,
+    "type": "short",
+    "name": "vibration",
+    "value": 911
+  },
+  {
+    "id": 404,
+    "type": "int",
+    "name": "rotationSpeed",
+    "value": 1634
+  },
+  {
+    "id": 405,
+    "type": "int",
+    "name": "cycleCount",
+    "value": 856253
+  },
+  {
+    "id": 406,
+    "type": "int",
+    "name": "maintenanceMinutes",
+    "value": 30166
+  },
+  {
+    "id": 407,
+    "type": "long",
+    "name": "operationCount",
+    "value": 11742589
+  },
+  {
+    "id": 408,
+    "type": "long",
+    "name": "totalRuntime",
+    "value": 655402397
+  },
+  {
+    "id": 409,
+    "type": "float",
+    "name": "voltage",
+    "value": 216.67
+  },
+  {
+    "id": 410,
+    "type": "float",
+    "name": "current",
+    "value": 69.72
+  },
+  {
+    "id": 411,
+    "type": "float",
+    "name": "powerConsumption",
+    "value": 1130.16
+  },
+  {
+    "id": 412,
+    "type": "float",
+    "name": "flowRate",
+    "value": 330.02
+  },
+  {
+    "id": 413,
+    "type": "double",
+    "name": "pressure",
+    "value": 5.4620519
+  },
+  {
+    "id": 414,
+    "type": "double",
+    "name": "energyConsumption",
+    "value": 278603.061023
+  },
+  {
+    "id": 415,
+    "type": "boolean",
+    "name": "isActive",
+    "value": true
+  },
+  {
+    "id": 416,
+    "type": "boolean",
+    "name": "isOverheated",
+    "value": false
+  },
+  {
+    "id": 417,
+    "type": "boolean",
+    "name": "maintenanceRequired",
+    "value": false
+  },
+  {
+    "id": 418,
+    "type": "byte",
+    "name": "signalStrength",
+    "value": 82
+  },
+  {
+    "id": 419,
+    "type": "byte",
+    "name": "errorCode",
+    "value": 12
+  },
+  {
+    "id": 420,
+    "type": "byte",
+    "name": "fanLevel",
+    "value": 86
+  },
+  {
+    "id": 421,
+    "type": "short",
+    "name": "temperature",
+    "value": 107
+  },
+  {
+    "id": 422,
+    "type": "short",
+    "name": "humidity",
+    "value": 42
+  },
+  {
+    "id": 423,
+    "type": "short",
+    "name": "vibration",
+    "value": 113
+  },
+  {
+    "id": 424,
+    "type": "int",
+    "name": "rotationSpeed",
+    "value": 944
+  },
+  {
+    "id": 425,
+    "type": "int",
+    "name": "cycleCount",
+    "value": 273903
+  },
+  {
+    "id": 426,
+    "type": "int",
+    "name": "maintenanceMinutes",
+    "value": 11702,
+    "condition": {
+      "operator": "<=",
+      "value": 45000
+    }
+  },
+  {
+    "id": 427,
+    "type": "long",
+    "name": "operationCount",
+    "value": 19491358
+  },
+  {
+    "id": 428,
+    "type": "long",
+    "name": "totalRuntime",
+    "value": 570094674
+  },
+  {
+    "id": 429,
+    "type": "float",
+    "name": "voltage",
+    "value": 114.97
+  },
+  {
+    "id": 430,
+    "type": "float",
+    "name": "current",
+    "value": 47.77
+  },
+  {
+    "id": 431,
+    "type": "float",
+    "name": "powerConsumption",
+    "value": 1741.52
+  },
+  {
+    "id": 432,
+    "type": "float",
+    "name": "flowRate",
+    "value": 393.21
+  },
+  {
+    "id": 433,
+    "type": "double",
+    "name": "pressure",
+    "value": 5.9058084
+  },
+  {
+    "id": 434,
+    "type": "double",
+    "name": "energyConsumption",
+    "value": 984235.8493166
+  },
+  {
+    "id": 435,
+    "type": "boolean",
+    "name": "isActive",
+    "value": true
+  },
+  {
+    "id": 436,
+    "type": "boolean",
+    "name": "isOverheated",
+    "value": false
+  },
+  {
+    "id": 437,
+    "type": "boolean",
+    "name": "maintenanceRequired",
+    "value": true
+  },
+  {
+    "id": 438,
+    "type": "byte",
+    "name": "signalStrength",
+    "value": 32
+  },
+  {
+    "id": 439,
+    "type": "byte",
+    "name": "errorCode",
+    "value": 1
+  },
+  {
+    "id": 440,
+    "type": "byte",
+    "name": "fanLevel",
+    "value": 90
+  },
+  {
+    "id": 441,
+    "type": "short",
+    "name": "temperature",
+    "value": 81
+  },
+  {
+    "id": 442,
+    "type": "short",
+    "name": "humidity",
+    "value": 0
+  },
+  {
+    "id": 443,
+    "type": "short",
+    "name": "vibration",
+    "value": 2129
+  },
+  {
+    "id": 444,
+    "type": "int",
+    "name": "rotationSpeed",
+    "value": 6606
+  },
+  {
+    "id": 445,
+    "type": "int",
+    "name": "cycleCount",
+    "value": 564607
+  },
+  {
+    "id": 446,
+    "type": "int",
+    "name": "maintenanceMinutes",
+    "value": 45013
+  },
+  {
+    "id": 447,
+    "type": "long",
+    "name": "operationCount",
+    "value": 6621401
+  },
+  {
+    "id": 448,
+    "type": "long",
+    "name": "totalRuntime",
+    "value": 782169659
+  },
+  {
+    "id": 449,
+    "type": "float",
+    "name": "voltage",
+    "value": 166.07
+  },
+  {
+    "id": 450,
+    "type": "float",
+    "name": "current",
+    "value": 75.92
+  },
+  {
+    "id": 451,
+    "type": "float",
+    "name": "powerConsumption",
+    "value": 4605.44,
+    "condition": {
+      "operator": "<=",
+      "value": 4500
+    }
+  },
+  {
+    "id": 452,
+    "type": "float",
+    "name": "flowRate",
+    "value": 311.58
+  },
+  {
+    "id": 453,
+    "type": "double",
+    "name": "pressure",
+    "value": 8.5616335
+  },
+  {
+    "id": 454,
+    "type": "double",
+    "name": "energyConsumption",
+    "value": 124625.3156644
+  },
+  {
+    "id": 455,
+    "type": "boolean",
+    "name": "isActive",
+    "value": false
+  },
+  {
+    "id": 456,
+    "type": "boolean",
+    "name": "isOverheated",
+    "value": false
+  },
+  {
+    "id": 457,
+    "type": "boolean",
+    "name": "maintenanceRequired",
+    "value": false
+  },
+  {
+    "id": 458,
+    "type": "byte",
+    "name": "signalStrength",
+    "value": 41
+  },
+  {
+    "id": 459,
+    "type": "byte",
+    "name": "errorCode",
+    "value": 12
+  },
+  {
+    "id": 460,
+    "type": "byte",
+    "name": "fanLevel",
+    "value": 89
+  },
+  {
+    "id": 461,
+    "type": "short",
+    "name": "temperature",
+    "value": 45
+  },
+  {
+    "id": 462,
+    "type": "short",
+    "name": "humidity",
+    "value": 70
+  },
+  {
+    "id": 463,
+    "type": "short",
+    "name": "vibration",
+    "value": 521
+  },
+  {
+    "id": 464,
+    "type": "int",
+    "name": "rotationSpeed",
+    "value": 1571
+  },
+  {
+    "id": 465,
+    "type": "int",
+    "name": "cycleCount",
+    "value": 440869
+  },
+  {
+    "id": 466,
+    "type": "int",
+    "name": "maintenanceMinutes",
+    "value": 43576
+  },
+  {
+    "id": 467,
+    "type": "long",
+    "name": "operationCount",
+    "value": 12732004
+  },
+  {
+    "id": 468,
+    "type": "long",
+    "name": "totalRuntime",
+    "value": 1454539206
+  },
+  {
+    "id": 469,
+    "type": "float",
+    "name": "voltage",
+    "value": 207.26
+  },
+  {
+    "id": 470,
+    "type": "float",
+    "name": "current",
+    "value": 14.0
+  },
+  {
+    "id": 471,
+    "type": "float",
+    "name": "powerConsumption",
+    "value": 2854.14
+  },
+  {
+    "id": 472,
+    "type": "float",
+    "name": "flowRate",
+    "value": 203.04
+  },
+  {
+    "id": 473,
+    "type": "double",
+    "name": "pressure",
+    "value": 10.5545845
+  },
+  {
+    "id": 474,
+    "type": "double",
+    "name": "energyConsumption",
+    "value": 303874.9492684
+  },
+  {
+    "id": 475,
+    "type": "boolean",
+    "name": "isActive",
+    "value": true
+  },
+  {
+    "id": 476,
+    "type": "boolean",
+    "name": "isOverheated",
+    "value": false,
+    "condition": {
+      "operator": "==",
+      "value": false
+    }
+  },
+  {
+    "id": 477,
+    "type": "boolean",
+    "name": "maintenanceRequired",
+    "value": false
+  },
+  {
+    "id": 478,
+    "type": "byte",
+    "name": "signalStrength",
+    "value": 59
+  },
+  {
+    "id": 479,
+    "type": "byte",
+    "name": "errorCode",
+    "value": 14
+  },
+  {
+    "id": 480,
+    "type": "byte",
+    "name": "fanLevel",
+    "value": 56
+  },
+  {
+    "id": 481,
+    "type": "short",
+    "name": "temperature",
+    "value": 24
+  },
+  {
+    "id": 482,
+    "type": "short",
+    "name": "humidity",
+    "value": 65
+  },
+  {
+    "id": 483,
+    "type": "short",
+    "name": "vibration",
+    "value": 1938
+  },
+  {
+    "id": 484,
+    "type": "int",
+    "name": "rotationSpeed",
+    "value": 6502
+  },
+  {
+    "id": 485,
+    "type": "int",
+    "name": "cycleCount",
+    "value": 834692
+  },
+  {
+    "id": 486,
+    "type": "int",
+    "name": "maintenanceMinutes",
+    "value": 48231
+  },
+  {
+    "id": 487,
+    "type": "long",
+    "name": "operationCount",
+    "value": 5703898
+  },
+  {
+    "id": 488,
+    "type": "long",
+    "name": "totalRuntime",
+    "value": 1414881212
+  },
+  {
+    "id": 489,
+    "type": "float",
+    "name": "voltage",
+    "value": 121.02
+  },
+  {
+    "id": 490,
+    "type": "float",
+    "name": "current",
+    "value": 41.28
+  },
+  {
+    "id": 491,
+    "type": "float",
+    "name": "powerConsumption",
+    "value": 3172.05
+  },
+  {
+    "id": 492,
+    "type": "float",
+    "name": "flowRate",
+    "value": 167.59
+  },
+  {
+    "id": 493,
+    "type": "double",
+    "name": "pressure",
+    "value": 10.3755545
+  },
+  {
+    "id": 494,
+    "type": "double",
+    "name": "energyConsumption",
+    "value": 751138.1375407
+  },
+  {
+    "id": 495,
+    "type": "boolean",
+    "name": "isActive",
+    "value": false
+  },
+  {
+    "id": 496,
+    "type": "boolean",
+    "name": "isOverheated",
+    "value": true
+  },
+  {
+    "id": 497,
+    "type": "boolean",
+    "name": "maintenanceRequired",
+    "value": true
+  },
+  {
+    "id": 498,
+    "type": "byte",
+    "name": "signalStrength",
+    "value": 18
+  },
+  {
+    "id": 499,
+    "type": "byte",
+    "name": "errorCode",
+    "value": 0
+  },
+  {
+    "id": 500,
+    "type": "byte",
+    "name": "fanLevel",
+    "value": 5
+  },
+  {
+    "id": 501,
+    "type": "short",
+    "name": "temperature",
+    "value": 32,
+    "condition": {
+      "operator": "between",
+      "min": -20,
+      "max": 100
+    }
+  },
+  {
+    "id": 502,
+    "type": "short",
+    "name": "humidity",
+    "value": 60
+  },
+  {
+    "id": 503,
+    "type": "short",
+    "name": "vibration",
+    "value": 2503
+  },
+  {
+    "id": 504,
+    "type": "int",
+    "name": "rotationSpeed",
+    "value": 6961
+  },
+  {
+    "id": 505,
+    "type": "int",
+    "name": "cycleCount",
+    "value": 805819
+  },
+  {
+    "id": 506,
+    "type": "int",
+    "name": "maintenanceMinutes",
+    "value": 4772
+  },
+  {
+    "id": 507,
+    "type": "long",
+    "name": "operationCount",
+    "value": 15291230
+  },
+  {
+    "id": 508,
+    "type": "long",
+    "name": "totalRuntime",
+    "value": 890015286
+  },
+  {
+    "id": 509,
+    "type": "float",
+    "name": "voltage",
+    "value": 225.2
+  },
+  {
+    "id": 510,
+    "type": "float",
+    "name": "current",
+    "value": 46.1
+  },
+  {
+    "id": 511,
+    "type": "float",
+    "name": "powerConsumption",
+    "value": 3597.36
+  },
+  {
+    "id": 512,
+    "type": "float",
+    "name": "flowRate",
+    "value": 191.99
+  },
+  {
+    "id": 513,
+    "type": "double",
+    "name": "pressure",
+    "value": 5.4759385
+  },
+  {
+    "id": 514,
+    "type": "double",
+    "name": "energyConsumption",
+    "value": 147571.3450913
+  },
+  {
+    "id": 515,
+    "type": "boolean",
+    "name": "isActive",
+    "value": true
+  },
+  {
+    "id": 516,
+    "type": "boolean",
+    "name": "isOverheated",
+    "value": true
+  },
+  {
+    "id": 517,
+    "type": "boolean",
+    "name": "maintenanceRequired",
+    "value": false
+  },
+  {
+    "id": 518,
+    "type": "byte",
+    "name": "signalStrength",
+    "value": 28
+  },
+  {
+    "id": 519,
+    "type": "byte",
+    "name": "errorCode",
+    "value": 5
+  },
+  {
+    "id": 520,
+    "type": "byte",
+    "name": "fanLevel",
+    "value": 89
+  },
+  {
+    "id": 521,
+    "type": "short",
+    "name": "temperature",
+    "value": 102
+  },
+  {
+    "id": 522,
+    "type": "short",
+    "name": "humidity",
+    "value": 59
+  },
+  {
+    "id": 523,
+    "type": "short",
+    "name": "vibration",
+    "value": 205
+  },
+  {
+    "id": 524,
+    "type": "int",
+    "name": "rotationSpeed",
+    "value": 4566
+  },
+  {
+    "id": 525,
+    "type": "int",
+    "name": "cycleCount",
+    "value": 261303
+  },
+  {
+    "id": 526,
+    "type": "int",
+    "name": "maintenanceMinutes",
+    "value": 7953,
+    "condition": {
+      "operator": "<=",
+      "value": 45000
+    }
+  },
+  {
+    "id": 527,
+    "type": "long",
+    "name": "operationCount",
+    "value": 15326317
+  },
+  {
+    "id": 528,
+    "type": "long",
+    "name": "totalRuntime",
+    "value": 286353536
+  },
+  {
+    "id": 529,
+    "type": "float",
+    "name": "voltage",
+    "value": 214.18
+  },
+  {
+    "id": 530,
+    "type": "float",
+    "name": "current",
+    "value": 53.44
+  },
+  {
+    "id": 531,
+    "type": "float",
+    "name": "powerConsumption",
+    "value": 4939.7
+  },
+  {
+    "id": 532,
+    "type": "float",
+    "name": "flowRate",
+    "value": 297.73
+  },
+  {
+    "id": 533,
+    "type": "double",
+    "name": "pressure",
+    "value": 11.9154634
+  },
+  {
+    "id": 534,
+    "type": "double",
+    "name": "energyConsumption",
+    "value": 891425.9258104
+  },
+  {
+    "id": 535,
+    "type": "boolean",
+    "name": "isActive",
+    "value": false
+  },
+  {
+    "id": 536,
+    "type": "boolean",
+    "name": "isOverheated",
+    "value": false
+  },
+  {
+    "id": 537,
+    "type": "boolean",
+    "name": "maintenanceRequired",
+    "value": true
+  },
+  {
+    "id": 538,
+    "type": "byte",
+    "name": "signalStrength",
+    "value": 95
+  },
+  {
+    "id": 539,
+    "type": "byte",
+    "name": "errorCode",
+    "value": 15
+  },
+  {
+    "id": 540,
+    "type": "byte",
+    "name": "fanLevel",
+    "value": 57
+  },
+  {
+    "id": 541,
+    "type": "short",
+    "name": "temperature",
+    "value": 36
+  },
+  {
+    "id": 542,
+    "type": "short",
+    "name": "humidity",
+    "value": 96
+  },
+  {
+    "id": 543,
+    "type": "short",
+    "name": "vibration",
+    "value": 1012
+  },
+  {
+    "id": 544,
+    "type": "int",
+    "name": "rotationSpeed",
+    "value": 6880
+  },
+  {
+    "id": 545,
+    "type": "int",
+    "name": "cycleCount",
+    "value": 668636
+  },
+  {
+    "id": 546,
+    "type": "int",
+    "name": "maintenanceMinutes",
+    "value": 18173
+  },
+  {
+    "id": 547,
+    "type": "long",
+    "name": "operationCount",
+    "value": 17501919
+  },
+  {
+    "id": 548,
+    "type": "long",
+    "name": "totalRuntime",
+    "value": 1040674172
+  },
+  {
+    "id": 549,
+    "type": "float",
+    "name": "voltage",
+    "value": 191.48
+  },
+  {
+    "id": 550,
+    "type": "float",
+    "name": "current",
+    "value": 22.04
+  },
+  {
+    "id": 551,
+    "type": "float",
+    "name": "powerConsumption",
+    "value": 405.87,
+    "condition": {
+      "operator": "<=",
+      "value": 4500
+    }
+  },
+  {
+    "id": 552,
+    "type": "float",
+    "name": "flowRate",
+    "value": 142.86
+  },
+  {
+    "id": 553,
+    "type": "double",
+    "name": "pressure",
+    "value": 3.9790668
+  },
+  {
+    "id": 554,
+    "type": "double",
+    "name": "energyConsumption",
+    "value": 319709.5684188
+  },
+  {
+    "id": 555,
+    "type": "boolean",
+    "name": "isActive",
+    "value": true
+  },
+  {
+    "id": 556,
+    "type": "boolean",
+    "name": "isOverheated",
+    "value": true
+  },
+  {
+    "id": 557,
+    "type": "boolean",
+    "name": "maintenanceRequired",
+    "value": true
+  },
+  {
+    "id": 558,
+    "type": "byte",
+    "name": "signalStrength",
+    "value": 29
+  },
+  {
+    "id": 559,
+    "type": "byte",
+    "name": "errorCode",
+    "value": 12
+  },
+  {
+    "id": 560,
+    "type": "byte",
+    "name": "fanLevel",
+    "value": 88
+  },
+  {
+    "id": 561,
+    "type": "short",
+    "name": "temperature",
+    "value": 9
+  },
+  {
+    "id": 562,
+    "type": "short",
+    "name": "humidity",
+    "value": 90
+  },
+  {
+    "id": 563,
+    "type": "short",
+    "name": "vibration",
+    "value": 876
+  },
+  {
+    "id": 564,
+    "type": "int",
+    "name": "rotationSpeed",
+    "value": 526
+  },
+  {
+    "id": 565,
+    "type": "int",
+    "name": "cycleCount",
+    "value": 435020
+  },
+  {
+    "id": 566,
+    "type": "int",
+    "name": "maintenanceMinutes",
+    "value": 26712
+  },
+  {
+    "id": 567,
+    "type": "long",
+    "name": "operationCount",
+    "value": 11112537
+  },
+  {
+    "id": 568,
+    "type": "long",
+    "name": "totalRuntime",
+    "value": 1165258557
+  },
+  {
+    "id": 569,
+    "type": "float",
+    "name": "voltage",
+    "value": 170.57
+  },
+  {
+    "id": 570,
+    "type": "float",
+    "name": "current",
+    "value": 5.08
+  },
+  {
+    "id": 571,
+    "type": "float",
+    "name": "powerConsumption",
+    "value": 4167.8
+  },
+  {
+    "id": 572,
+    "type": "float",
+    "name": "flowRate",
+    "value": 194.74
+  },
+  {
+    "id": 573,
+    "type": "double",
+    "name": "pressure",
+    "value": 9.8066105
+  },
+  {
+    "id": 574,
+    "type": "double",
+    "name": "energyConsumption",
+    "value": 946062.0335901
+  },
+  {
+    "id": 575,
+    "type": "boolean",
+    "name": "isActive",
+    "value": true
+  },
+  {
+    "id": 576,
+    "type": "boolean",
+    "name": "isOverheated",
+    "value": false,
+    "condition": {
+      "operator": "==",
+      "value": false
+    }
+  },
+  {
+    "id": 577,
+    "type": "boolean",
+    "name": "maintenanceRequired",
+    "value": false
+  },
+  {
+    "id": 578,
+    "type": "byte",
+    "name": "signalStrength",
+    "value": 0
+  },
+  {
+    "id": 579,
+    "type": "byte",
+    "name": "errorCode",
+    "value": 11
+  },
+  {
+    "id": 580,
+    "type": "byte",
+    "name": "fanLevel",
+    "value": 38
+  },
+  {
+    "id": 581,
+    "type": "short",
+    "name": "temperature",
+    "value": 69
+  },
+  {
+    "id": 582,
+    "type": "short",
+    "name": "humidity",
+    "value": 53
+  },
+  {
+    "id": 583,
+    "type": "short",
+    "name": "vibration",
+    "value": 2204
+  },
+  {
+    "id": 584,
+    "type": "int",
+    "name": "rotationSpeed",
+    "value": 6123
+  },
+  {
+    "id": 585,
+    "type": "int",
+    "name": "cycleCount",
+    "value": 770319
+  },
+  {
+    "id": 586,
+    "type": "int",
+    "name": "maintenanceMinutes",
+    "value": 35791
+  },
+  {
+    "id": 587,
+    "type": "long",
+    "name": "operationCount",
+    "value": 7410050
+  },
+  {
+    "id": 588,
+    "type": "long",
+    "name": "totalRuntime",
+    "value": 1048474828
+  },
+  {
+    "id": 589,
+    "type": "float",
+    "name": "voltage",
+    "value": 138.52
+  },
+  {
+    "id": 590,
+    "type": "float",
+    "name": "current",
+    "value": 34.92
+  },
+  {
+    "id": 591,
+    "type": "float",
+    "name": "powerConsumption",
+    "value": 164.54
+  },
+  {
+    "id": 592,
+    "type": "float",
+    "name": "flowRate",
+    "value": 168.06
+  },
+  {
+    "id": 593,
+    "type": "double",
+    "name": "pressure",
+    "value": 8.7459601
+  },
+  {
+    "id": 594,
+    "type": "double",
+    "name": "energyConsumption",
+    "value": 404316.6691376
+  },
+  {
+    "id": 595,
+    "type": "boolean",
+    "name": "isActive",
+    "value": true
+  },
+  {
+    "id": 596,
+    "type": "boolean",
+    "name": "isOverheated",
+    "value": false
+  },
+  {
+    "id": 597,
+    "type": "boolean",
+    "name": "maintenanceRequired",
+    "value": true
+  },
+  {
+    "id": 598,
+    "type": "byte",
+    "name": "signalStrength",
+    "value": 79
+  },
+  {
+    "id": 599,
+    "type": "byte",
+    "name": "errorCode",
+    "value": 0
+  },
+  {
+    "id": 600,
+    "type": "byte",
+    "name": "fanLevel",
+    "value": 50
+  },
+  {
+    "id": 601,
+    "type": "short",
+    "name": "temperature",
+    "value": 114,
+    "condition": {
+      "operator": "between",
+      "min": -20,
+      "max": 100
+    }
+  },
+  {
+    "id": 602,
+    "type": "short",
+    "name": "humidity",
+    "value": 84
+  },
+  {
+    "id": 603,
+    "type": "short",
+    "name": "vibration",
+    "value": 111
+  },
+  {
+    "id": 604,
+    "type": "int",
+    "name": "rotationSpeed",
+    "value": 687
+  },
+  {
+    "id": 605,
+    "type": "int",
+    "name": "cycleCount",
+    "value": 673971
+  },
+  {
+    "id": 606,
+    "type": "int",
+    "name": "maintenanceMinutes",
+    "value": 28089
+  },
+  {
+    "id": 607,
+    "type": "long",
+    "name": "operationCount",
+    "value": 4563319
+  },
+  {
+    "id": 608,
+    "type": "long",
+    "name": "totalRuntime",
+    "value": 1861559105
+  },
+  {
+    "id": 609,
+    "type": "float",
+    "name": "voltage",
+    "value": 170.02
+  },
+  {
+    "id": 610,
+    "type": "float",
+    "name": "current",
+    "value": 4.12
+  },
+  {
+    "id": 611,
+    "type": "float",
+    "name": "powerConsumption",
+    "value": 1907.94
+  },
+  {
+    "id": 612,
+    "type": "float",
+    "name": "flowRate",
+    "value": 105.83
+  },
+  {
+    "id": 613,
+    "type": "double",
+    "name": "pressure",
+    "value": 4.6240959
+  },
+  {
+    "id": 614,
+    "type": "double",
+    "name": "energyConsumption",
+    "value": 761229.707894
+  },
+  {
+    "id": 615,
+    "type": "boolean",
+    "name": "isActive",
+    "value": false
+  },
+  {
+    "id": 616,
+    "type": "boolean",
+    "name": "isOverheated",
+    "value": false
+  },
+  {
+    "id": 617,
+    "type": "boolean",
+    "name": "maintenanceRequired",
+    "value": false
+  },
+  {
+    "id": 618,
+    "type": "byte",
+    "name": "signalStrength",
+    "value": 32
+  },
+  {
+    "id": 619,
+    "type": "byte",
+    "name": "errorCode",
+    "value": 2
+  },
+  {
+    "id": 620,
+    "type": "byte",
+    "name": "fanLevel",
+    "value": 60
+  },
+  {
+    "id": 621,
+    "type": "short",
+    "name": "temperature",
+    "value": -26
+  },
+  {
+    "id": 622,
+    "type": "short",
+    "name": "humidity",
+    "value": 95
+  },
+  {
+    "id": 623,
+    "type": "short",
+    "name": "vibration",
+    "value": 2209
+  },
+  {
+    "id": 624,
+    "type": "int",
+    "name": "rotationSpeed",
+    "value": 426
+  },
+  {
+    "id": 625,
+    "type": "int",
+    "name": "cycleCount",
+    "value": 366960
+  },
+  {
+    "id": 626,
+    "type": "int",
+    "name": "maintenanceMinutes",
+    "value": 14694,
+    "condition": {
+      "operator": "<=",
+      "value": 45000
+    }
+  },
+  {
+    "id": 627,
+    "type": "long",
+    "name": "operationCount",
+    "value": 2312450
+  },
+  {
+    "id": 628,
+    "type": "long",
+    "name": "totalRuntime",
+    "value": 1677695199
+  },
+  {
+    "id": 629,
+    "type": "float",
+    "name": "voltage",
+    "value": 234.45
+  },
+  {
+    "id": 630,
+    "type": "float",
+    "name": "current",
+    "value": 3.32
+  },
+  {
+    "id": 631,
+    "type": "float",
+    "name": "powerConsumption",
+    "value": 174.53
+  },
+  {
+    "id": 632,
+    "type": "float",
+    "name": "flowRate",
+    "value": 123.64
+  },
+  {
+    "id": 633,
+    "type": "double",
+    "name": "pressure",
+    "value": 10.6189775
+  },
+  {
+    "id": 634,
+    "type": "double",
+    "name": "energyConsumption",
+    "value": 621335.6565862
+  },
+  {
+    "id": 635,
+    "type": "boolean",
+    "name": "isActive",
+    "value": true
+  },
+  {
+    "id": 636,
+    "type": "boolean",
+    "name": "isOverheated",
+    "value": true
+  },
+  {
+    "id": 637,
+    "type": "boolean",
+    "name": "maintenanceRequired",
+    "value": false
+  },
+  {
+    "id": 638,
+    "type": "byte",
+    "name": "signalStrength",
+    "value": 85
+  },
+  {
+    "id": 639,
+    "type": "byte",
+    "name": "errorCode",
+    "value": 3
+  },
+  {
+    "id": 640,
+    "type": "byte",
+    "name": "fanLevel",
+    "value": 72
+  },
+  {
+    "id": 641,
+    "type": "short",
+    "name": "temperature",
+    "value": 25
+  },
+  {
+    "id": 642,
+    "type": "short",
+    "name": "humidity",
+    "value": 59
+  },
+  {
+    "id": 643,
+    "type": "short",
+    "name": "vibration",
+    "value": 2865
+  },
+  {
+    "id": 644,
+    "type": "int",
+    "name": "rotationSpeed",
+    "value": 2099
+  },
+  {
+    "id": 645,
+    "type": "int",
+    "name": "cycleCount",
+    "value": 804150
+  },
+  {
+    "id": 646,
+    "type": "int",
+    "name": "maintenanceMinutes",
+    "value": 24175
+  },
+  {
+    "id": 647,
+    "type": "long",
+    "name": "operationCount",
+    "value": 5640069
+  },
+  {
+    "id": 648,
+    "type": "long",
+    "name": "totalRuntime",
+    "value": 1301154650
+  },
+  {
+    "id": 649,
+    "type": "float",
+    "name": "voltage",
+    "value": 188.94
+  },
+  {
+    "id": 650,
+    "type": "float",
+    "name": "current",
+    "value": 59.86
+  },
+  {
+    "id": 651,
+    "type": "float",
+    "name": "powerConsumption",
+    "value": 590.37,
+    "condition": {
+      "operator": "<=",
+      "value": 4500
+    }
+  },
+  {
+    "id": 652,
+    "type": "float",
+    "name": "flowRate",
+    "value": 409.65
+  },
+  {
+    "id": 653,
+    "type": "double",
+    "name": "pressure",
+    "value": 12.087233
+  },
+  {
+    "id": 654,
+    "type": "double",
+    "name": "energyConsumption",
+    "value": 108098.7496576
+  },
+  {
+    "id": 655,
+    "type": "boolean",
+    "name": "isActive",
+    "value": true
+  },
+  {
+    "id": 656,
+    "type": "boolean",
+    "name": "isOverheated",
+    "value": false
+  },
+  {
+    "id": 657,
+    "type": "boolean",
+    "name": "maintenanceRequired",
+    "value": false
+  },
+  {
+    "id": 658,
+    "type": "byte",
+    "name": "signalStrength",
+    "value": 50
+  },
+  {
+    "id": 659,
+    "type": "byte",
+    "name": "errorCode",
+    "value": 6
+  },
+  {
+    "id": 660,
+    "type": "byte",
+    "name": "fanLevel",
+    "value": 9
+  },
+  {
+    "id": 661,
+    "type": "short",
+    "name": "temperature",
+    "value": 32
+  },
+  {
+    "id": 662,
+    "type": "short",
+    "name": "humidity",
+    "value": 13
+  },
+  {
+    "id": 663,
+    "type": "short",
+    "name": "vibration",
+    "value": 2855
+  },
+  {
+    "id": 664,
+    "type": "int",
+    "name": "rotationSpeed",
+    "value": 6328
+  },
+  {
+    "id": 665,
+    "type": "int",
+    "name": "cycleCount",
+    "value": 316232
+  },
+  {
+    "id": 666,
+    "type": "int",
+    "name": "maintenanceMinutes",
+    "value": 44843
+  },
+  {
+    "id": 667,
+    "type": "long",
+    "name": "operationCount",
+    "value": 4071933
+  },
+  {
+    "id": 668,
+    "type": "long",
+    "name": "totalRuntime",
+    "value": 1709894923
+  },
+  {
+    "id": 669,
+    "type": "float",
+    "name": "voltage",
+    "value": 237.9
+  },
+  {
+    "id": 670,
+    "type": "float",
+    "name": "current",
+    "value": 62.63
+  },
+  {
+    "id": 671,
+    "type": "float",
+    "name": "powerConsumption",
+    "value": 1749.07
+  },
+  {
+    "id": 672,
+    "type": "float",
+    "name": "flowRate",
+    "value": 214.19
+  },
+  {
+    "id": 673,
+    "type": "double",
+    "name": "pressure",
+    "value": 5.1356793
+  },
+  {
+    "id": 674,
+    "type": "double",
+    "name": "energyConsumption",
+    "value": 505960.7896771
+  },
+  {
+    "id": 675,
+    "type": "boolean",
+    "name": "isActive",
+    "value": false
+  },
+  {
+    "id": 676,
+    "type": "boolean",
+    "name": "isOverheated",
+    "value": true,
+    "condition": {
+      "operator": "==",
+      "value": false
+    }
+  },
+  {
+    "id": 677,
+    "type": "boolean",
+    "name": "maintenanceRequired",
+    "value": false
+  },
+  {
+    "id": 678,
+    "type": "byte",
+    "name": "signalStrength",
+    "value": 62
+  },
+  {
+    "id": 679,
+    "type": "byte",
+    "name": "errorCode",
+    "value": 3
+  },
+  {
+    "id": 680,
+    "type": "byte",
+    "name": "fanLevel",
+    "value": 55
+  },
+  {
+    "id": 681,
+    "type": "short",
+    "name": "temperature",
+    "value": 62
+  },
+  {
+    "id": 682,
+    "type": "short",
+    "name": "humidity",
+    "value": 81
+  },
+  {
+    "id": 683,
+    "type": "short",
+    "name": "vibration",
+    "value": 1883
+  },
+  {
+    "id": 684,
+    "type": "int",
+    "name": "rotationSpeed",
+    "value": 5794
+  },
+  {
+    "id": 685,
+    "type": "int",
+    "name": "cycleCount",
+    "value": 160422
+  },
+  {
+    "id": 686,
+    "type": "int",
+    "name": "maintenanceMinutes",
+    "value": 28540
+  },
+  {
+    "id": 687,
+    "type": "long",
+    "name": "operationCount",
+    "value": 5920175
+  },
+  {
+    "id": 688,
+    "type": "long",
+    "name": "totalRuntime",
+    "value": 1575823409
+  },
+  {
+    "id": 689,
+    "type": "float",
+    "name": "voltage",
+    "value": 177.83
+  },
+  {
+    "id": 690,
+    "type": "float",
+    "name": "current",
+    "value": 52.07
+  },
+  {
+    "id": 691,
+    "type": "float",
+    "name": "powerConsumption",
+    "value": 3087.24
+  },
+  {
+    "id": 692,
+    "type": "float",
+    "name": "flowRate",
+    "value": 459.81
+  },
+  {
+    "id": 693,
+    "type": "double",
+    "name": "pressure",
+    "value": 9.863305
+  },
+  {
+    "id": 694,
+    "type": "double",
+    "name": "energyConsumption",
+    "value": 464873.7716345
+  },
+  {
+    "id": 695,
+    "type": "boolean",
+    "name": "isActive",
+    "value": false
+  },
+  {
+    "id": 696,
+    "type": "boolean",
+    "name": "isOverheated",
+    "value": false
+  },
+  {
+    "id": 697,
+    "type": "boolean",
+    "name": "maintenanceRequired",
+    "value": true
+  },
+  {
+    "id": 698,
+    "type": "byte",
+    "name": "signalStrength",
+    "value": 11
+  },
+  {
+    "id": 699,
+    "type": "byte",
+    "name": "errorCode",
+    "value": 8
+  },
+  {
+    "id": 700,
+    "type": "byte",
+    "name": "fanLevel",
+    "value": 57
+  },
+  {
+    "id": 701,
+    "type": "short",
+    "name": "temperature",
+    "value": 32,
+    "condition": {
+      "operator": "between",
+      "min": -20,
+      "max": 100
+    }
+  },
+  {
+    "id": 702,
+    "type": "short",
+    "name": "humidity",
+    "value": 96
+  },
+  {
+    "id": 703,
+    "type": "short",
+    "name": "vibration",
+    "value": 1903
+  },
+  {
+    "id": 704,
+    "type": "int",
+    "name": "rotationSpeed",
+    "value": 4668
+  },
+  {
+    "id": 705,
+    "type": "int",
+    "name": "cycleCount",
+    "value": 639979
+  },
+  {
+    "id": 706,
+    "type": "int",
+    "name": "maintenanceMinutes",
+    "value": 43790
+  },
+  {
+    "id": 707,
+    "type": "long",
+    "name": "operationCount",
+    "value": 12726770
+  },
+  {
+    "id": 708,
+    "type": "long",
+    "name": "totalRuntime",
+    "value": 722416248
+  },
+  {
+    "id": 709,
+    "type": "float",
+    "name": "voltage",
+    "value": 113.73
+  },
+  {
+    "id": 710,
+    "type": "float",
+    "name": "current",
+    "value": 68.09
+  },
+  {
+    "id": 711,
+    "type": "float",
+    "name": "powerConsumption",
+    "value": 925.56
+  },
+  {
+    "id": 712,
+    "type": "float",
+    "name": "flowRate",
+    "value": 106.06
+  },
+  {
+    "id": 713,
+    "type": "double",
+    "name": "pressure",
+    "value": 10.1346386
+  },
+  {
+    "id": 714,
+    "type": "double",
+    "name": "energyConsumption",
+    "value": 340338.8431643
+  },
+  {
+    "id": 715,
+    "type": "boolean",
+    "name": "isActive",
+    "value": false
+  },
+  {
+    "id": 716,
+    "type": "boolean",
+    "name": "isOverheated",
+    "value": true
+  },
+  {
+    "id": 717,
+    "type": "boolean",
+    "name": "maintenanceRequired",
+    "value": true
+  },
+  {
+    "id": 718,
+    "type": "byte",
+    "name": "signalStrength",
+    "value": 10
+  },
+  {
+    "id": 719,
+    "type": "byte",
+    "name": "errorCode",
+    "value": 7
+  },
+  {
+    "id": 720,
+    "type": "byte",
+    "name": "fanLevel",
+    "value": 92
+  },
+  {
+    "id": 721,
+    "type": "short",
+    "name": "temperature",
+    "value": 74
+  },
+  {
+    "id": 722,
+    "type": "short",
+    "name": "humidity",
+    "value": 62
+  },
+  {
+    "id": 723,
+    "type": "short",
+    "name": "vibration",
+    "value": 2274
+  },
+  {
+    "id": 724,
+    "type": "int",
+    "name": "rotationSpeed",
+    "value": 6210
+  },
+  {
+    "id": 725,
+    "type": "int",
+    "name": "cycleCount",
+    "value": 251997
+  },
+  {
+    "id": 726,
+    "type": "int",
+    "name": "maintenanceMinutes",
+    "value": 45259,
+    "condition": {
+      "operator": "<=",
+      "value": 45000
+    }
+  },
+  {
+    "id": 727,
+    "type": "long",
+    "name": "operationCount",
+    "value": 15985033
+  },
+  {
+    "id": 728,
+    "type": "long",
+    "name": "totalRuntime",
+    "value": 1387075905
+  },
+  {
+    "id": 729,
+    "type": "float",
+    "name": "voltage",
+    "value": 202.54
+  },
+  {
+    "id": 730,
+    "type": "float",
+    "name": "current",
+    "value": 35.91
+  },
+  {
+    "id": 731,
+    "type": "float",
+    "name": "powerConsumption",
+    "value": 105.87
+  },
+  {
+    "id": 732,
+    "type": "float",
+    "name": "flowRate",
+    "value": 147.12
+  },
+  {
+    "id": 733,
+    "type": "double",
+    "name": "pressure",
+    "value": 5.5314932
+  },
+  {
+    "id": 734,
+    "type": "double",
+    "name": "energyConsumption",
+    "value": 243305.1638768
+  },
+  {
+    "id": 735,
+    "type": "boolean",
+    "name": "isActive",
+    "value": false
+  },
+  {
+    "id": 736,
+    "type": "boolean",
+    "name": "isOverheated",
+    "value": false
+  },
+  {
+    "id": 737,
+    "type": "boolean",
+    "name": "maintenanceRequired",
+    "value": false
+  },
+  {
+    "id": 738,
+    "type": "byte",
+    "name": "signalStrength",
+    "value": 54
+  },
+  {
+    "id": 739,
+    "type": "byte",
+    "name": "errorCode",
+    "value": 10
+  },
+  {
+    "id": 740,
+    "type": "byte",
+    "name": "fanLevel",
+    "value": 45
+  },
+  {
+    "id": 741,
+    "type": "short",
+    "name": "temperature",
+    "value": 86
+  },
+  {
+    "id": 742,
+    "type": "short",
+    "name": "humidity",
+    "value": 34
+  },
+  {
+    "id": 743,
+    "type": "short",
+    "name": "vibration",
+    "value": 1255
+  },
+  {
+    "id": 744,
+    "type": "int",
+    "name": "rotationSpeed",
+    "value": 2059
+  },
+  {
+    "id": 745,
+    "type": "int",
+    "name": "cycleCount",
+    "value": 241736
+  },
+  {
+    "id": 746,
+    "type": "int",
+    "name": "maintenanceMinutes",
+    "value": 7907
+  },
+  {
+    "id": 747,
+    "type": "long",
+    "name": "operationCount",
+    "value": 6472056
+  },
+  {
+    "id": 748,
+    "type": "long",
+    "name": "totalRuntime",
+    "value": 677644051
+  },
+  {
+    "id": 749,
+    "type": "float",
+    "name": "voltage",
+    "value": 125.54
+  },
+  {
+    "id": 750,
+    "type": "float",
+    "name": "current",
+    "value": 42.92
+  },
+  {
+    "id": 751,
+    "type": "float",
+    "name": "powerConsumption",
+    "value": 3815.7,
+    "condition": {
+      "operator": "<=",
+      "value": 4500
+    }
+  },
+  {
+    "id": 752,
+    "type": "float",
+    "name": "flowRate",
+    "value": 92.57
+  },
+  {
+    "id": 753,
+    "type": "double",
+    "name": "pressure",
+    "value": 3.3317003
+  },
+  {
+    "id": 754,
+    "type": "double",
+    "name": "energyConsumption",
+    "value": 484198.5872127
+  },
+  {
+    "id": 755,
+    "type": "boolean",
+    "name": "isActive",
+    "value": false
+  },
+  {
+    "id": 756,
+    "type": "boolean",
+    "name": "isOverheated",
+    "value": true
+  },
+  {
+    "id": 757,
+    "type": "boolean",
+    "name": "maintenanceRequired",
+    "value": true
+  },
+  {
+    "id": 758,
+    "type": "byte",
+    "name": "signalStrength",
+    "value": 37
+  },
+  {
+    "id": 759,
+    "type": "byte",
+    "name": "errorCode",
+    "value": 7
+  },
+  {
+    "id": 760,
+    "type": "byte",
+    "name": "fanLevel",
+    "value": 46
+  },
+  {
+    "id": 761,
+    "type": "short",
+    "name": "temperature",
+    "value": 15
+  },
+  {
+    "id": 762,
+    "type": "short",
+    "name": "humidity",
+    "value": 38
+  },
+  {
+    "id": 763,
+    "type": "short",
+    "name": "vibration",
+    "value": 57
+  },
+  {
+    "id": 764,
+    "type": "int",
+    "name": "rotationSpeed",
+    "value": 5800
+  },
+  {
+    "id": 765,
+    "type": "int",
+    "name": "cycleCount",
+    "value": 560081
+  },
+  {
+    "id": 766,
+    "type": "int",
+    "name": "maintenanceMinutes",
+    "value": 8295
+  },
+  {
+    "id": 767,
+    "type": "long",
+    "name": "operationCount",
+    "value": 9214360
+  },
+  {
+    "id": 768,
+    "type": "long",
+    "name": "totalRuntime",
+    "value": 97754220
+  },
+  {
+    "id": 769,
+    "type": "float",
+    "name": "voltage",
+    "value": 236.66
+  },
+  {
+    "id": 770,
+    "type": "float",
+    "name": "current",
+    "value": 44.31
+  },
+  {
+    "id": 771,
+    "type": "float",
+    "name": "powerConsumption",
+    "value": 3493.14
+  },
+  {
+    "id": 772,
+    "type": "float",
+    "name": "flowRate",
+    "value": 63.14
+  },
+  {
+    "id": 773,
+    "type": "double",
+    "name": "pressure",
+    "value": 10.960996
+  },
+  {
+    "id": 774,
+    "type": "double",
+    "name": "energyConsumption",
+    "value": 490878.6945238
+  },
+  {
+    "id": 775,
+    "type": "boolean",
+    "name": "isActive",
+    "value": true
+  },
+  {
+    "id": 776,
+    "type": "boolean",
+    "name": "isOverheated",
+    "value": false,
+    "condition": {
+      "operator": "==",
+      "value": false
+    }
+  },
+  {
+    "id": 777,
+    "type": "boolean",
+    "name": "maintenanceRequired",
+    "value": false
+  },
+  {
+    "id": 778,
+    "type": "byte",
+    "name": "signalStrength",
+    "value": 61
+  },
+  {
+    "id": 779,
+    "type": "byte",
+    "name": "errorCode",
+    "value": 14
+  },
+  {
+    "id": 780,
+    "type": "byte",
+    "name": "fanLevel",
+    "value": 43
+  },
+  {
+    "id": 781,
+    "type": "short",
+    "name": "temperature",
+    "value": 17
+  },
+  {
+    "id": 782,
+    "type": "short",
+    "name": "humidity",
+    "value": 6
+  },
+  {
+    "id": 783,
+    "type": "short",
+    "name": "vibration",
+    "value": 1034
+  },
+  {
+    "id": 784,
+    "type": "int",
+    "name": "rotationSpeed",
+    "value": 7059
+  },
+  {
+    "id": 785,
+    "type": "int",
+    "name": "cycleCount",
+    "value": 500935
+  },
+  {
+    "id": 786,
+    "type": "int",
+    "name": "maintenanceMinutes",
+    "value": 7476
+  },
+  {
+    "id": 787,
+    "type": "long",
+    "name": "operationCount",
+    "value": 2202561
+  },
+  {
+    "id": 788,
+    "type": "long",
+    "name": "totalRuntime",
+    "value": 860522673
+  },
+  {
+    "id": 789,
+    "type": "float",
+    "name": "voltage",
+    "value": 173.93
+  },
+  {
+    "id": 790,
+    "type": "float",
+    "name": "current",
+    "value": 46.2
+  },
+  {
+    "id": 791,
+    "type": "float",
+    "name": "powerConsumption",
+    "value": 3438.53
+  },
+  {
+    "id": 792,
+    "type": "float",
+    "name": "flowRate",
+    "value": 75.86
+  },
+  {
+    "id": 793,
+    "type": "double",
+    "name": "pressure",
+    "value": 10.2903623
+  },
+  {
+    "id": 794,
+    "type": "double",
+    "name": "energyConsumption",
+    "value": 949125.642358
+  },
+  {
+    "id": 795,
+    "type": "boolean",
+    "name": "isActive",
+    "value": true
+  },
+  {
+    "id": 796,
+    "type": "boolean",
+    "name": "isOverheated",
+    "value": true
+  },
+  {
+    "id": 797,
+    "type": "boolean",
+    "name": "maintenanceRequired",
+    "value": true
+  },
+  {
+    "id": 798,
+    "type": "byte",
+    "name": "signalStrength",
+    "value": 71
+  },
+  {
+    "id": 799,
+    "type": "byte",
+    "name": "errorCode",
+    "value": 13
+  },
+  {
+    "id": 800,
+    "type": "byte",
+    "name": "fanLevel",
+    "value": 77
+  },
+  {
+    "id": 801,
+    "type": "short",
+    "name": "temperature",
+    "value": 27,
+    "condition": {
+      "operator": "between",
+      "min": -20,
+      "max": 100
+    }
+  },
+  {
+    "id": 802,
+    "type": "short",
+    "name": "humidity",
+    "value": 99
+  },
+  {
+    "id": 803,
+    "type": "short",
+    "name": "vibration",
+    "value": 2140
+  },
+  {
+    "id": 804,
+    "type": "int",
+    "name": "rotationSpeed",
+    "value": 3116
+  },
+  {
+    "id": 805,
+    "type": "int",
+    "name": "cycleCount",
+    "value": 472398
+  },
+  {
+    "id": 806,
+    "type": "int",
+    "name": "maintenanceMinutes",
+    "value": 29014
+  },
+  {
+    "id": 807,
+    "type": "long",
+    "name": "operationCount",
+    "value": 9987515
+  },
+  {
+    "id": 808,
+    "type": "long",
+    "name": "totalRuntime",
+    "value": 1847203852
+  },
+  {
+    "id": 809,
+    "type": "float",
+    "name": "voltage",
+    "value": 186.51
+  },
+  {
+    "id": 810,
+    "type": "float",
+    "name": "current",
+    "value": 34.36
+  },
+  {
+    "id": 811,
+    "type": "float",
+    "name": "powerConsumption",
+    "value": 2851.77
+  },
+  {
+    "id": 812,
+    "type": "float",
+    "name": "flowRate",
+    "value": 30.12
+  },
+  {
+    "id": 813,
+    "type": "double",
+    "name": "pressure",
+    "value": 12.0332727
+  },
+  {
+    "id": 814,
+    "type": "double",
+    "name": "energyConsumption",
+    "value": 99233.5747748
+  },
+  {
+    "id": 815,
+    "type": "boolean",
+    "name": "isActive",
+    "value": true
+  },
+  {
+    "id": 816,
+    "type": "boolean",
+    "name": "isOverheated",
+    "value": true
+  },
+  {
+    "id": 817,
+    "type": "boolean",
+    "name": "maintenanceRequired",
+    "value": false
+  },
+  {
+    "id": 818,
+    "type": "byte",
+    "name": "signalStrength",
+    "value": 84
+  },
+  {
+    "id": 819,
+    "type": "byte",
+    "name": "errorCode",
+    "value": 2
+  },
+  {
+    "id": 820,
+    "type": "byte",
+    "name": "fanLevel",
+    "value": 20
+  },
+  {
+    "id": 821,
+    "type": "short",
+    "name": "temperature",
+    "value": 31
+  },
+  {
+    "id": 822,
+    "type": "short",
+    "name": "humidity",
+    "value": 22
+  },
+  {
+    "id": 823,
+    "type": "short",
+    "name": "vibration",
+    "value": 2260
+  },
+  {
+    "id": 824,
+    "type": "int",
+    "name": "rotationSpeed",
+    "value": 614
+  },
+  {
+    "id": 825,
+    "type": "int",
+    "name": "cycleCount",
+    "value": 164136
+  },
+  {
+    "id": 826,
+    "type": "int",
+    "name": "maintenanceMinutes",
+    "value": 175,
+    "condition": {
+      "operator": "<=",
+      "value": 45000
+    }
+  },
+  {
+    "id": 827,
+    "type": "long",
+    "name": "operationCount",
+    "value": 13717575
+  },
+  {
+    "id": 828,
+    "type": "long",
+    "name": "totalRuntime",
+    "value": 967459333
+  },
+  {
+    "id": 829,
+    "type": "float",
+    "name": "voltage",
+    "value": 199.62
+  },
+  {
+    "id": 830,
+    "type": "float",
+    "name": "current",
+    "value": 37.65
+  },
+  {
+    "id": 831,
+    "type": "float",
+    "name": "powerConsumption",
+    "value": 182.55
+  },
+  {
+    "id": 832,
+    "type": "float",
+    "name": "flowRate",
+    "value": 144.05
+  },
+  {
+    "id": 833,
+    "type": "double",
+    "name": "pressure",
+    "value": 4.107805
+  },
+  {
+    "id": 834,
+    "type": "double",
+    "name": "energyConsumption",
+    "value": 859606.7313405
+  },
+  {
+    "id": 835,
+    "type": "boolean",
+    "name": "isActive",
+    "value": true
+  },
+  {
+    "id": 836,
+    "type": "boolean",
+    "name": "isOverheated",
+    "value": true
+  },
+  {
+    "id": 837,
+    "type": "boolean",
+    "name": "maintenanceRequired",
+    "value": false
+  },
+  {
+    "id": 838,
+    "type": "byte",
+    "name": "signalStrength",
+    "value": 100
+  },
+  {
+    "id": 839,
+    "type": "byte",
+    "name": "errorCode",
+    "value": 6
+  },
+  {
+    "id": 840,
+    "type": "byte",
+    "name": "fanLevel",
+    "value": 54
+  },
+  {
+    "id": 841,
+    "type": "short",
+    "name": "temperature",
+    "value": -1
+  },
+  {
+    "id": 842,
+    "type": "short",
+    "name": "humidity",
+    "value": 69
+  },
+  {
+    "id": 843,
+    "type": "short",
+    "name": "vibration",
+    "value": 920
+  },
+  {
+    "id": 844,
+    "type": "int",
+    "name": "rotationSpeed",
+    "value": 5305
+  },
+  {
+    "id": 845,
+    "type": "int",
+    "name": "cycleCount",
+    "value": 156226
+  },
+  {
+    "id": 846,
+    "type": "int",
+    "name": "maintenanceMinutes",
+    "value": 17408
+  },
+  {
+    "id": 847,
+    "type": "long",
+    "name": "operationCount",
+    "value": 4782657
+  },
+  {
+    "id": 848,
+    "type": "long",
+    "name": "totalRuntime",
+    "value": 153361463
+  },
+  {
+    "id": 849,
+    "type": "float",
+    "name": "voltage",
+    "value": 117.75
+  },
+  {
+    "id": 850,
+    "type": "float",
+    "name": "current",
+    "value": 63.43
+  },
+  {
+    "id": 851,
+    "type": "float",
+    "name": "powerConsumption",
+    "value": 2983.32,
+    "condition": {
+      "operator": "<=",
+      "value": 4500
+    }
+  },
+  {
+    "id": 852,
+    "type": "float",
+    "name": "flowRate",
+    "value": 412.12
+  },
+  {
+    "id": 853,
+    "type": "double",
+    "name": "pressure",
+    "value": 11.5779526
+  },
+  {
+    "id": 854,
+    "type": "double",
+    "name": "energyConsumption",
+    "value": 439153.4486737
+  },
+  {
+    "id": 855,
+    "type": "boolean",
+    "name": "isActive",
+    "value": false
+  },
+  {
+    "id": 856,
+    "type": "boolean",
+    "name": "isOverheated",
+    "value": false
+  },
+  {
+    "id": 857,
+    "type": "boolean",
+    "name": "maintenanceRequired",
+    "value": false
+  },
+  {
+    "id": 858,
+    "type": "byte",
+    "name": "signalStrength",
+    "value": 34
+  },
+  {
+    "id": 859,
+    "type": "byte",
+    "name": "errorCode",
+    "value": 15
+  },
+  {
+    "id": 860,
+    "type": "byte",
+    "name": "fanLevel",
+    "value": 56
+  },
+  {
+    "id": 861,
+    "type": "short",
+    "name": "temperature",
+    "value": -10
+  },
+  {
+    "id": 862,
+    "type": "short",
+    "name": "humidity",
+    "value": 76
+  },
+  {
+    "id": 863,
+    "type": "short",
+    "name": "vibration",
+    "value": 163
+  },
+  {
+    "id": 864,
+    "type": "int",
+    "name": "rotationSpeed",
+    "value": 3539
+  },
+  {
+    "id": 865,
+    "type": "int",
+    "name": "cycleCount",
+    "value": 770214
+  },
+  {
+    "id": 866,
+    "type": "int",
+    "name": "maintenanceMinutes",
+    "value": 21123
+  },
+  {
+    "id": 867,
+    "type": "long",
+    "name": "operationCount",
+    "value": 8410952
+  },
+  {
+    "id": 868,
+    "type": "long",
+    "name": "totalRuntime",
+    "value": 55554440
+  },
+  {
+    "id": 869,
+    "type": "float",
+    "name": "voltage",
+    "value": 121.87
+  },
+  {
+    "id": 870,
+    "type": "float",
+    "name": "current",
+    "value": 76.96
+  },
+  {
+    "id": 871,
+    "type": "float",
+    "name": "powerConsumption",
+    "value": 4183.07
+  },
+  {
+    "id": 872,
+    "type": "float",
+    "name": "flowRate",
+    "value": 287.6
+  },
+  {
+    "id": 873,
+    "type": "double",
+    "name": "pressure",
+    "value": 11.9241995
+  },
+  {
+    "id": 874,
+    "type": "double",
+    "name": "energyConsumption",
+    "value": 999572.4168775
+  },
+  {
+    "id": 875,
+    "type": "boolean",
+    "name": "isActive",
+    "value": false
+  },
+  {
+    "id": 876,
+    "type": "boolean",
+    "name": "isOverheated",
+    "value": true,
+    "condition": {
+      "operator": "==",
+      "value": false
+    }
+  },
+  {
+    "id": 877,
+    "type": "boolean",
+    "name": "maintenanceRequired",
+    "value": true
+  },
+  {
+    "id": 878,
+    "type": "byte",
+    "name": "signalStrength",
+    "value": 60
+  },
+  {
+    "id": 879,
+    "type": "byte",
+    "name": "errorCode",
+    "value": 14
+  },
+  {
+    "id": 880,
+    "type": "byte",
+    "name": "fanLevel",
+    "value": 35
+  },
+  {
+    "id": 881,
+    "type": "short",
+    "name": "temperature",
+    "value": 16
+  },
+  {
+    "id": 882,
+    "type": "short",
+    "name": "humidity",
+    "value": 74
+  },
+  {
+    "id": 883,
+    "type": "short",
+    "name": "vibration",
+    "value": 1785
+  },
+  {
+    "id": 884,
+    "type": "int",
+    "name": "rotationSpeed",
+    "value": 5200
+  },
+  {
+    "id": 885,
+    "type": "int",
+    "name": "cycleCount",
+    "value": 853797
+  },
+  {
+    "id": 886,
+    "type": "int",
+    "name": "maintenanceMinutes",
+    "value": 32225
+  },
+  {
+    "id": 887,
+    "type": "long",
+    "name": "operationCount",
+    "value": 3071587
+  },
+  {
+    "id": 888,
+    "type": "long",
+    "name": "totalRuntime",
+    "value": 1009349642
+  },
+  {
+    "id": 889,
+    "type": "float",
+    "name": "voltage",
+    "value": 155.23
+  },
+  {
+    "id": 890,
+    "type": "float",
+    "name": "current",
+    "value": 26.73
+  },
+  {
+    "id": 891,
+    "type": "float",
+    "name": "powerConsumption",
+    "value": 3357.26
+  },
+  {
+    "id": 892,
+    "type": "float",
+    "name": "flowRate",
+    "value": 428.87
+  },
+  {
+    "id": 893,
+    "type": "double",
+    "name": "pressure",
+    "value": 4.6587029
+  },
+  {
+    "id": 894,
+    "type": "double",
+    "name": "energyConsumption",
+    "value": 693673.6739834
+  },
+  {
+    "id": 895,
+    "type": "boolean",
+    "name": "isActive",
+    "value": false
+  },
+  {
+    "id": 896,
+    "type": "boolean",
+    "name": "isOverheated",
+    "value": false
+  },
+  {
+    "id": 897,
+    "type": "boolean",
+    "name": "maintenanceRequired",
+    "value": true
+  },
+  {
+    "id": 898,
+    "type": "byte",
+    "name": "signalStrength",
+    "value": 58
+  },
+  {
+    "id": 899,
+    "type": "byte",
+    "name": "errorCode",
+    "value": 2
+  },
+  {
+    "id": 900,
+    "type": "byte",
+    "name": "fanLevel",
+    "value": 40
+  },
+  {
+    "id": 901,
+    "type": "short",
+    "name": "temperature",
+    "value": 34,
+    "condition": {
+      "operator": "between",
+      "min": -20,
+      "max": 100
+    }
+  },
+  {
+    "id": 902,
+    "type": "short",
+    "name": "humidity",
+    "value": 41
+  },
+  {
+    "id": 903,
+    "type": "short",
+    "name": "vibration",
+    "value": 474
+  },
+  {
+    "id": 904,
+    "type": "int",
+    "name": "rotationSpeed",
+    "value": 6328
+  },
+  {
+    "id": 905,
+    "type": "int",
+    "name": "cycleCount",
+    "value": 423808
+  },
+  {
+    "id": 906,
+    "type": "int",
+    "name": "maintenanceMinutes",
+    "value": 33724
+  },
+  {
+    "id": 907,
+    "type": "long",
+    "name": "operationCount",
+    "value": 48623
+  },
+  {
+    "id": 908,
+    "type": "long",
+    "name": "totalRuntime",
+    "value": 1412324917
+  },
+  {
+    "id": 909,
+    "type": "float",
+    "name": "voltage",
+    "value": 223.02
+  },
+  {
+    "id": 910,
+    "type": "float",
+    "name": "current",
+    "value": 37.01
+  },
+  {
+    "id": 911,
+    "type": "float",
+    "name": "powerConsumption",
+    "value": 289.94
+  },
+  {
+    "id": 912,
+    "type": "float",
+    "name": "flowRate",
+    "value": 259.22
+  },
+  {
+    "id": 913,
+    "type": "double",
+    "name": "pressure",
+    "value": 8.0848163
+  },
+  {
+    "id": 914,
+    "type": "double",
+    "name": "energyConsumption",
+    "value": 498493.1023822
+  },
+  {
+    "id": 915,
+    "type": "boolean",
+    "name": "isActive",
+    "value": false
+  },
+  {
+    "id": 916,
+    "type": "boolean",
+    "name": "isOverheated",
+    "value": true
+  },
+  {
+    "id": 917,
+    "type": "boolean",
+    "name": "maintenanceRequired",
+    "value": true
+  },
+  {
+    "id": 918,
+    "type": "byte",
+    "name": "signalStrength",
+    "value": 34
+  },
+  {
+    "id": 919,
+    "type": "byte",
+    "name": "errorCode",
+    "value": 4
+  },
+  {
+    "id": 920,
+    "type": "byte",
+    "name": "fanLevel",
+    "value": 36
+  },
+  {
+    "id": 921,
+    "type": "short",
+    "name": "temperature",
+    "value": 82
+  },
+  {
+    "id": 922,
+    "type": "short",
+    "name": "humidity",
+    "value": 89
+  },
+  {
+    "id": 923,
+    "type": "short",
+    "name": "vibration",
+    "value": 1985
+  },
+  {
+    "id": 924,
+    "type": "int",
+    "name": "rotationSpeed",
+    "value": 994
+  },
+  {
+    "id": 925,
+    "type": "int",
+    "name": "cycleCount",
+    "value": 30271
+  },
+  {
+    "id": 926,
+    "type": "int",
+    "name": "maintenanceMinutes",
+    "value": 41289,
+    "condition": {
+      "operator": "<=",
+      "value": 45000
+    }
+  },
+  {
+    "id": 927,
+    "type": "long",
+    "name": "operationCount",
+    "value": 8039490
+  },
+  {
+    "id": 928,
+    "type": "long",
+    "name": "totalRuntime",
+    "value": 1524257013
+  },
+  {
+    "id": 929,
+    "type": "float",
+    "name": "voltage",
+    "value": 130.59
+  },
+  {
+    "id": 930,
+    "type": "float",
+    "name": "current",
+    "value": 44.11
+  },
+  {
+    "id": 931,
+    "type": "float",
+    "name": "powerConsumption",
+    "value": 2770.21
+  },
+  {
+    "id": 932,
+    "type": "float",
+    "name": "flowRate",
+    "value": 46.6
+  },
+  {
+    "id": 933,
+    "type": "double",
+    "name": "pressure",
+    "value": 12.4094085
+  },
+  {
+    "id": 934,
+    "type": "double",
+    "name": "energyConsumption",
+    "value": 912929.8784842
+  },
+  {
+    "id": 935,
+    "type": "boolean",
+    "name": "isActive",
+    "value": false
+  },
+  {
+    "id": 936,
+    "type": "boolean",
+    "name": "isOverheated",
+    "value": true
+  },
+  {
+    "id": 937,
+    "type": "boolean",
+    "name": "maintenanceRequired",
+    "value": true
+  },
+  {
+    "id": 938,
+    "type": "byte",
+    "name": "signalStrength",
+    "value": 63
+  },
+  {
+    "id": 939,
+    "type": "byte",
+    "name": "errorCode",
+    "value": 9
+  },
+  {
+    "id": 940,
+    "type": "byte",
+    "name": "fanLevel",
+    "value": 65
+  },
+  {
+    "id": 941,
+    "type": "short",
+    "name": "temperature",
+    "value": 39
+  },
+  {
+    "id": 942,
+    "type": "short",
+    "name": "humidity",
+    "value": 53
+  },
+  {
+    "id": 943,
+    "type": "short",
+    "name": "vibration",
+    "value": 1976
+  },
+  {
+    "id": 944,
+    "type": "int",
+    "name": "rotationSpeed",
+    "value": 3868
+  },
+  {
+    "id": 945,
+    "type": "int",
+    "name": "cycleCount",
+    "value": 255570
+  },
+  {
+    "id": 946,
+    "type": "int",
+    "name": "maintenanceMinutes",
+    "value": 29935
+  },
+  {
+    "id": 947,
+    "type": "long",
+    "name": "operationCount",
+    "value": 18507386
+  },
+  {
+    "id": 948,
+    "type": "long",
+    "name": "totalRuntime",
+    "value": 310626256
+  },
+  {
+    "id": 949,
+    "type": "float",
+    "name": "voltage",
+    "value": 159.87
+  },
+  {
+    "id": 950,
+    "type": "float",
+    "name": "current",
+    "value": 73.76
+  },
+  {
+    "id": 951,
+    "type": "float",
+    "name": "powerConsumption",
+    "value": 2551.04,
+    "condition": {
+      "operator": "<=",
+      "value": 4500
+    }
+  },
+  {
+    "id": 952,
+    "type": "float",
+    "name": "flowRate",
+    "value": 439.66
+  },
+  {
+    "id": 953,
+    "type": "double",
+    "name": "pressure",
+    "value": 10.9091151
+  },
+  {
+    "id": 954,
+    "type": "double",
+    "name": "energyConsumption",
+    "value": 276247.402822
+  },
+  {
+    "id": 955,
+    "type": "boolean",
+    "name": "isActive",
+    "value": false
+  },
+  {
+    "id": 956,
+    "type": "boolean",
+    "name": "isOverheated",
+    "value": false
+  },
+  {
+    "id": 957,
+    "type": "boolean",
+    "name": "maintenanceRequired",
+    "value": false
+  },
+  {
+    "id": 958,
+    "type": "byte",
+    "name": "signalStrength",
+    "value": 0
+  },
+  {
+    "id": 959,
+    "type": "byte",
+    "name": "errorCode",
+    "value": 9
+  },
+  {
+    "id": 960,
+    "type": "byte",
+    "name": "fanLevel",
+    "value": 92
+  },
+  {
+    "id": 961,
+    "type": "short",
+    "name": "temperature",
+    "value": 46
+  },
+  {
+    "id": 962,
+    "type": "short",
+    "name": "humidity",
+    "value": 75
+  },
+  {
+    "id": 963,
+    "type": "short",
+    "name": "vibration",
+    "value": 2375
+  },
+  {
+    "id": 964,
+    "type": "int",
+    "name": "rotationSpeed",
+    "value": 5406
+  },
+  {
+    "id": 965,
+    "type": "int",
+    "name": "cycleCount",
+    "value": 513425
+  },
+  {
+    "id": 966,
+    "type": "int",
+    "name": "maintenanceMinutes",
+    "value": 9738
+  },
+  {
+    "id": 967,
+    "type": "long",
+    "name": "operationCount",
+    "value": 14993644
+  },
+  {
+    "id": 968,
+    "type": "long",
+    "name": "totalRuntime",
+    "value": 1156602985
+  },
+  {
+    "id": 969,
+    "type": "float",
+    "name": "voltage",
+    "value": 172.96
+  },
+  {
+    "id": 970,
+    "type": "float",
+    "name": "current",
+    "value": 26.66
+  },
+  {
+    "id": 971,
+    "type": "float",
+    "name": "powerConsumption",
+    "value": 3819.11
+  },
+  {
+    "id": 972,
+    "type": "float",
+    "name": "flowRate",
+    "value": 188.61
+  },
+  {
+    "id": 973,
+    "type": "double",
+    "name": "pressure",
+    "value": 11.7143714
+  },
+  {
+    "id": 974,
+    "type": "double",
+    "name": "energyConsumption",
+    "value": 869601.6832341
+  },
+  {
+    "id": 975,
+    "type": "boolean",
+    "name": "isActive",
+    "value": true
+  },
+  {
+    "id": 976,
+    "type": "boolean",
+    "name": "isOverheated",
+    "value": false,
+    "condition": {
+      "operator": "==",
+      "value": false
+    }
+  },
+  {
+    "id": 977,
+    "type": "boolean",
+    "name": "maintenanceRequired",
+    "value": true
+  },
+  {
+    "id": 978,
+    "type": "byte",
+    "name": "signalStrength",
+    "value": 99
+  },
+  {
+    "id": 979,
+    "type": "byte",
+    "name": "errorCode",
+    "value": 13
+  },
+  {
+    "id": 980,
+    "type": "byte",
+    "name": "fanLevel",
+    "value": 5
+  },
+  {
+    "id": 981,
+    "type": "short",
+    "name": "temperature",
+    "value": 51
+  },
+  {
+    "id": 982,
+    "type": "short",
+    "name": "humidity",
+    "value": 95
+  },
+  {
+    "id": 983,
+    "type": "short",
+    "name": "vibration",
+    "value": 1937
+  },
+  {
+    "id": 984,
+    "type": "int",
+    "name": "rotationSpeed",
+    "value": 5777
+  },
+  {
+    "id": 985,
+    "type": "int",
+    "name": "cycleCount",
+    "value": 850823
+  },
+  {
+    "id": 986,
+    "type": "int",
+    "name": "maintenanceMinutes",
+    "value": 24984
+  },
+  {
+    "id": 987,
+    "type": "long",
+    "name": "operationCount",
+    "value": 12964653
+  },
+  {
+    "id": 988,
+    "type": "long",
+    "name": "totalRuntime",
+    "value": 1425270906
+  },
+  {
+    "id": 989,
+    "type": "float",
+    "name": "voltage",
+    "value": 213.01
+  },
+  {
+    "id": 990,
+    "type": "float",
+    "name": "current",
+    "value": 52.2
+  },
+  {
+    "id": 991,
+    "type": "float",
+    "name": "powerConsumption",
+    "value": 777.48
+  },
+  {
+    "id": 992,
+    "type": "float",
+    "name": "flowRate",
+    "value": 482.41
+  },
+  {
+    "id": 993,
+    "type": "double",
+    "name": "pressure",
+    "value": 2.2770814
+  },
+  {
+    "id": 994,
+    "type": "double",
+    "name": "energyConsumption",
+    "value": 965353.5901769
+  },
+  {
+    "id": 995,
+    "type": "boolean",
+    "name": "isActive",
+    "value": false
+  },
+  {
+    "id": 996,
+    "type": "boolean",
+    "name": "isOverheated",
+    "value": true
+  },
+  {
+    "id": 997,
+    "type": "boolean",
+    "name": "maintenanceRequired",
+    "value": false
+  },
+  {
+    "id": 998,
+    "type": "byte",
+    "name": "signalStrength",
+    "value": 12
+  },
+  {
+    "id": 999,
+    "type": "byte",
+    "name": "errorCode",
+    "value": 14
+  },
+  {
+    "id": 1000,
+    "type": "byte",
+    "name": "fanLevel",
+    "value": 1
+  }
+]
